@@ -6,7 +6,8 @@
 <title>Validar test</title>
 <style>
 :root{--bg:#f3f5f6;--surface:#fff;--fg:#1b2329;--muted:#5d6a73;--line:#d7dde1;--accent:#0b5c8a;--ok:#1f7a45;--bad:#b3261e;--warn:#9a6400}
-@media (prefers-color-scheme:dark){:root{--bg:#11171b;--surface:#192126;--fg:#e4e9ec;--muted:#97a3ab;--line:#2b363d;--accent:#4aa3d6;--ok:#5cc48a;--bad:#ef7a70;--warn:#f0a92a}}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#11171b;--surface:#192126;--fg:#e4e9ec;--muted:#97a3ab;--line:#2b363d;--accent:#4aa3d6;--ok:#5cc48a;--bad:#ef7a70;--warn:#f0a92a}}
+:root[data-theme="dark"]{--bg:#11171b;--surface:#192126;--fg:#e4e9ec;--muted:#97a3ab;--line:#2b363d;--accent:#4aa3d6;--ok:#5cc48a;--bad:#ef7a70;--warn:#f0a92a}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif;padding:24px 16px 48px}
 .wrap{max-width:820px;margin:0 auto}
@@ -36,6 +37,7 @@ code{font-family:ui-monospace,Menlo,monospace;font-size:13px}
 <div id="out"></div>
 </div>
 <script>
+try{const t=localStorage.getItem("tcgva_theme")||"dark";if(t!=="auto")document.documentElement.setAttribute("data-theme",t)}catch(e){}
 const L=["A","B","C","D"];
 const $=id=>document.getElementById(id);
 const words=s=>String(s||"").trim().split(/\s+/).filter(Boolean).length;
