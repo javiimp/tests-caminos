@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Validar test</title>
+<style>
+:root{--bg:#f3f5f6;--surface:#fff;--fg:#1b2329;--muted:#5d6a73;--line:#d7dde1;--accent:#0b5c8a;--ok:#1f7a45;--bad:#b3261e;--warn:#9a6400}
+@media (prefers-color-scheme:dark){:root{--bg:#11171b;--surface:#192126;--fg:#e4e9ec;--muted:#97a3ab;--line:#2b363d;--accent:#4aa3d6;--ok:#5cc48a;--bad:#ef7a70;--warn:#f0a92a}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif;padding:24px 16px 48px}
+.wrap{max-width:820px;margin:0 auto}
+h1{font-size:28px;margin:0 0 4px}
+p{margin:6px 0;color:var(--muted)}
+textarea{width:100%;min-height:220px;font:13px ui-monospace,Menlo,monospace;background:var(--surface);color:var(--fg);border:1px solid var(--line);border-radius:8px;padding:10px}
+.row{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0}
+button{font:inherit;border:1px solid var(--line);background:var(--surface);color:var(--fg);border-radius:6px;padding:9px 14px;cursor:pointer}
+button.primary{background:var(--accent);border-color:var(--accent);color:#fff}
+.box{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:14px 16px;margin-top:12px}
+.err{color:var(--bad)} .warn{color:var(--warn)} .ok{color:var(--ok)}
+ul{margin:6px 0;padding-left:20px}
+code{font-family:ui-monospace,Menlo,monospace;font-size:13px}
+</style>
+</head>
+<body>
+<div class="wrap">
+<h1>Validar un test</h1>
+<p>Pega aquí el JSON que te dé Gemini (o carga el archivo). Se comprueban las reglas del proyecto y, si quieres, se reparten de nuevo las letras correctas de forma equilibrada. Después descarga el archivo y súbelo a la carpeta <code>tests/</code>.</p>
+<textarea id="src" placeholder='{"id":"test04", "titulo":"…", "normas":"…", "preguntas":[…]}'></textarea>
+<div class="row">
+  <button id="file">Cargar archivo</button>
+  <button class="primary" id="check">Validar</button>
+  <button id="balance">Equilibrar letras</button>
+  <button id="download">Descargar archivo</button>
+</div>
+<div id="out"></div>
+</div>
+<script>
+const L=["A","B","C","D"];
+const $=id=>document.getElementById(id);
+const words=s=>String(s||"").trim().split(/\s+/).filter(Boolean).length;
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+function parse(){
+  let txt=$("src").value.trim();
+  const m=txt.match(/```(?:json)?\s*([\s\S]*?)```/); if(m) txt=m[1];   // por si Gemini lo envuelve en ```json
+  return JSON.parse(txt);
+}
+
+function validate(t){
+  const err=[],warn=[],info=[];
+  if(!t||typeof t!=="object") return {err:["No es un objeto JSON."],warn,info};
+  if(!/^test\d{2,}$/.test(t.id||"")) err.push('"id" debe ser del tipo "test04".');
+  if(!t.titulo) err.push('Falta "titulo".');
+  if(!t.normas) warn.push('Falta "normas".');
+  const P=t.preguntas;
+  if(!Array.isArray(P)||!P.length){err.push('Falta la lista "preguntas".');return {err,warn,info}}
+  const seen=new Set();let inc=0;const seq=[];
+  P.forEach((q,i)=>{
+    const tag="P"+(i+1);
+    if(q.n!==i+1) err.push(`${tag}: "n" debería ser ${i+1}.`);
+    ["tema","e","ref","cita"].forEach(k=>{if(!q[k]) err.push(`${tag}: falta "${k}".`)});
+    if(!q.o||L.some(x=>!q.o[x])) {err.push(`${tag}: faltan opciones A-D.`);return}
+    if(!L.includes(q.c)) {err.push(`${tag}: "c" debe ser A, B, C o D.`);return}
+    seq.push(q.c);
+    L.filter(x=>x!==q.c).forEach(x=>{if(!q.w||!q.w[x]) err.push(`${tag}: falta la explicación de por qué falla ${x}.`)});
+    if(q.w&&q.w[q.c]) warn.push(`${tag}: "w" no debe llevar la letra correcta.`);
+    if(/INCORRECTA/.test(q.e)) inc++;
+    if(seen.has(q.e)) err.push(`${tag}: enunciado repetido.`); seen.add(q.e);
+    const lens=Object.fromEntries(L.map(x=>[x,words(q.o[x])]));
+    L.forEach(x=>{if(lens[x]>30) warn.push(`${tag}: la opción ${x} tiene ${lens[x]} palabras (máx. 30).`)});
+    const mx=Math.max(...L.filter(x=>x!==q.c).map(x=>lens[x]));
+    if(lens[q.c]>mx+2) warn.push(`${tag}: la opción correcta (${q.c}) es claramente la más larga.`);
+    L.forEach(x=>{if(/todas (las anteriores )?son correctas|ninguna (de las anteriores )?es correcta/i.test(q.o[x])) err.push(`${tag}: opción ${x} usa "todas/ninguna son correctas".`)});
+    const vals=L.map(x=>q.o[x].trim().toLowerCase()); if(new Set(vals).size<4) err.push(`${tag}: hay opciones repetidas.`);
+  });
+  const n=P.length, pct=Math.round(100*inc/n);
+  info.push(`${n} preguntas · ${inc} piden la INCORRECTA (${pct} %).`);
+  if(pct<20||pct>25) warn.push(`Las INCORRECTA deberían ser entre el 20 % y el 25 % (ahora ${pct} %).`);
+  const cnt=Object.fromEntries(L.map(x=>[x,seq.filter(y=>y===x).length]));
+  info.push(`Reparto de correctas: A ${cnt.A} · B ${cnt.B} · C ${cnt.C} · D ${cnt.D}. Secuencia: ${seq.join("")}`);
+  if(Math.max(...Object.values(cnt))-Math.min(...Object.values(cnt))>2) warn.push("El reparto de letras correctas no está equilibrado: pulsa «Equilibrar letras».");
+  const s=seq.join("");
+  if(/(.)\1\1/.test(s)) warn.push("Hay tres o más correctas seguidas con la misma letra: pulsa «Equilibrar letras».");
+  if(/ABCD|DCBA/.test(s)||[...s].some((_,i)=>i+3<s.length&&s[i]===s[i+2]&&s[i+1]===s[i+3])) warn.push("La secuencia de correctas tiene patrones: pulsa «Equilibrar letras».");
+  return {err,warn,info};
+}
+
+function goodSeq(n){
+  for(let tries=0;tries<5000;tries++){
+    const b=Array.from({length:n},(_,i)=>L[i%4]);
+    for(let i=n-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[b[i],b[j]]=[b[j],b[i]]}
+    const s=b.join("");
+    if(/(.)\1\1/.test(s)||/ABCD|DCBA/.test(s)) continue;
+    if([...s].some((_,i)=>i+3<n&&s[i]===s[i+2]&&s[i+1]===s[i+3])) continue;
+    return b;
+  }
+  return Array.from({length:n},(_,i)=>L[i%4]);
+}
+
+function balance(t){
+  const seq=goodSeq(t.preguntas.length);
+  t.preguntas.forEach((q,i)=>{
+    const target=seq[i];
+    // opciones: la correcta va a la letra objetivo; las demás conservan su orden relativo
+    const others=L.filter(x=>x!==q.c).map(x=>({text:q.o[x],why:q.w[x]}));
+    const o={},w={};let k=0;
+    L.forEach(x=>{if(x===target){o[x]=q.o[q.c]}else{o[x]=others[k].text;w[x]=others[k].why;k++}});
+    q.o=o;q.w=w;q.c=target;
+  });
+  return t;
+}
+
+function show(t){
+  const {err,warn,info}=validate(t);
+  const st=err.length?'<b class="err">Hay errores: corrígelos antes de subirlo.</b>':warn.length?'<b class="warn">Sin errores, pero revisa los avisos.</b>':'<b class="ok">Todo correcto. Ya puedes descargarlo y subirlo.</b>';
+  $("out").innerHTML=`<div class="box">${st}<ul>${info.map(x=>`<li>${esc(x)}</li>`).join("")}</ul>
+   ${err.length?`<b class="err">Errores</b><ul>${err.map(x=>`<li class="err">${esc(x)}</li>`).join("")}</ul>`:""}
+   ${warn.length?`<b class="warn">Avisos</b><ul>${warn.map(x=>`<li>${esc(x)}</li>`).join("")}</ul>`:""}
+   <p>Recuerda revisar a mano las cifras, plazos y artículos contra la norma: esta página no puede comprobarlos.</p></div>`;
+}
+
+function run(fn){try{const t=parse();fn(t)}catch(e){$("out").innerHTML=`<div class="box err">El texto no es un JSON válido: ${esc(e.message)}</div>`}}
+$("check").onclick=()=>run(show);
+$("balance").onclick=()=>run(t=>{balance(t);$("src").value=JSON.stringify(t,null,1);show(t)});
+$("download").onclick=()=>run(t=>{
+  const name=(t.id||"test")+"_"+String(t.titulo||"").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"").replace(/[^a-z0-9]+/g,"_").replace(/^_|_$/g,"").slice(0,40)+".json";
+  const a=document.createElement("a");a.href=URL.createObjectURL(new Blob([JSON.stringify(t,null,1)],{type:"application/json"}));a.download=name;document.body.appendChild(a);a.click();a.remove();
+});
+$("file").onclick=()=>{const i=document.createElement("input");i.type="file";i.accept=".json,.txt";i.onchange=async()=>{$("src").value=await i.files[0].text();run(show)};i.click()};
+</script>
+</body>
+</html>

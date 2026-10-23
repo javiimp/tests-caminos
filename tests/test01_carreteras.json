@@ -1,0 +1,577 @@
+{
+ "id": "test01",
+ "titulo": "Test 1 · Carreteras (Temas 1, 3, 4, 5, 6 y 7)",
+ "normas": "Ley 6/1991 de Carreteras de la Comunitat Valenciana · Norma 3.1-IC Trazado · Norma 5.2-IC y OC 17/2003 (según Tema 6) · Norma de Secciones de Firme de la CV · Normas 6.1-IC y 6.3-IC",
+ "preguntas": [
+  {
+   "n": 1,
+   "tema": "Tema 1",
+   "e": "Señale la respuesta correcta. Según el artículo 32 de la Ley 6/1991, de carreteras de la Comunitat Valenciana, en defecto de planificación viaria o proyecto que señale su anchura, la zona de dominio público de una autovía queda delimitada por líneas situadas, desde la arista exterior de la explanación, a:",
+   "o": {
+    "A": "Ocho metros (8 m).",
+    "B": "Cinco metros (5 m).",
+    "C": "Tres metros (3 m).",
+    "D": "Veinticinco metros (25 m)."
+   },
+   "c": "B",
+   "ref": "Ley 6/1991, art. 32",
+   "cita": "«8 m en autopistas, 5 m en autovías y vías rápidas, 3 m en las restantes carreteras».",
+   "w": {
+    "A": "8 m corresponde a las autopistas.",
+    "C": "3 m corresponde a las restantes carreteras.",
+    "D": "25 m es la zona de protección (art. 33) de las restantes carreteras, medida desde la calzada."
+   }
+  },
+  {
+   "n": 2,
+   "tema": "Tema 1",
+   "e": "Señale la respuesta correcta. Según el artículo 15 de la Ley 6/1991, las obras de construcción de carreteras o caminos de titularidad pública:",
+   "o": {
+    "A": "Están sometidas a licencia municipal, al constituir obras públicas de interés general comunitario.",
+    "B": "No están sometidas a licencia municipal, pero requieren informe vinculante previo de los ayuntamientos afectados.",
+    "C": "No están sometidas a licencia municipal y deberán comunicarse a los ayuntamientos afectados una vez finalizadas.",
+    "D": "No están sometidas a licencia municipal y deberán comunicarse a los ayuntamientos afectados antes de iniciarse."
+   },
+   "c": "D",
+   "ref": "Ley 6/1991, art. 15",
+   "cita": "«no estarán sometidas a la obtención de licencia municipal… deberán ser comunicadas a los ayuntamientos afectados antes de su iniciación».",
+   "w": {
+    "A": "Precisamente por ser de interés general comunitario no están sometidas a licencia.",
+    "B": "La ley no exige informe vinculante municipal, solo comunicación.",
+    "C": "La comunicación es antes de iniciarlas, no al terminar."
+   }
+  },
+  {
+   "n": 3,
+   "tema": "Tema 1",
+   "e": "Señale la respuesta correcta. Según el artículo 6 de la Ley 6/1991, el Catálogo del Sistema Viario, una vez redactado y previamente a su aprobación por el Consell, será sometido a información pública de:",
+   "o": {
+    "A": "Las Entidades Locales afectadas.",
+    "B": "Las Diputaciones Provinciales afectadas.",
+    "C": "Las restantes Consellerias y los Organismos que se determinen.",
+    "D": "La Administración General del Estado."
+   },
+   "c": "A",
+   "ref": "Ley 6/1991, art. 6.3",
+   "cita": "«será sometido a información pública de las Entidades Locales afectadas».",
+   "w": {
+    "B": "El artículo no individualiza a las Diputaciones.",
+    "C": "Las Consellerias y Organismos aparecen en el art. 17 para el avance del Plan de Carreteras, no para el Catálogo.",
+    "D": "No se prevé información pública a la Administración del Estado."
+   }
+  },
+  {
+   "n": 4,
+   "tema": "Tema 1",
+   "e": "Señale la respuesta INCORRECTA. Según el artículo 33 de la Ley 6/1991, respecto de la zona de protección:",
+   "o": {
+    "A": "No se admite en esta zona la nueva construcción de edificación alguna.",
+    "B": "Podrán realizarse sin autorización previa usos estrictamente agrícolas, como cultivos ordinarios, si se garantiza la seguridad de la vía.",
+    "C": "Los terrenos situados en las zonas de protección cuentan para las reservas dotacionales mínimas urbanísticas.",
+    "D": "La imposición de servidumbres sobre estos terrenos será objeto de compensación con arreglo a la Ley de Expropiación Forzosa."
+   },
+   "c": "C",
+   "ref": "Ley 6/1991, art. 33",
+   "cita": "«Los terrenos en las zonas de protección de carreteras no cuentan para las reservas dotacionales mínimas urbanísticas».",
+   "w": {
+    "A": "Correcta: literal del art. 33.",
+    "B": "Correcta: art. 33, usos agrícolas sin autorización previa.",
+    "D": "Correcta: art. 33, compensación conforme a la LEF."
+   }
+  },
+  {
+   "n": 5,
+   "tema": "Tema 1",
+   "e": "Señale la respuesta correcta. Según el artículo 18 de la Ley 6/1991, la aprobación definitiva de los planes viarios que desarrollen o complementen el Plan de Carreteras de la Comunitat Valenciana corresponde:",
+   "o": {
+    "A": "Al Consell, mediante decreto.",
+    "B": "Al Conseller de Obras Públicas, Urbanismo y Transportes.",
+    "C": "A la Dirección General competente en materia de carreteras.",
+    "D": "A las Entidades Locales afectadas, previo informe de la Conselleria."
+   },
+   "c": "B",
+   "ref": "Ley 6/1991, art. 18",
+   "cita": "«cuya aprobación definitiva corresponde al Consejero de Obras Públicas, Urbanismo y Transportes».",
+   "w": {
+    "A": "El decreto del Consell es para el Plan de Carreteras (art. 17).",
+    "C": "La Dirección General no aprueba los planes viarios.",
+    "D": "Las Entidades Locales no aprueban planes viarios autonómicos."
+   }
+  },
+  {
+   "n": 6,
+   "tema": "Tema 3",
+   "e": "Señale la respuesta correcta. Según el apartado 2.1 de la Norma 3.1-IC Trazado, las carreteras C-100 se integran en:",
+   "o": {
+    "A": "El Grupo 1, junto con las autopistas y autovías A-140 y A-130.",
+    "B": "El Grupo 3, junto con las carreteras C-90, C-80, C-70, C-60, C-50 y C-40.",
+    "C": "El Grupo 2, junto con las autopistas y autovías A-120 a A-80.",
+    "D": "Ningún grupo, porque los grupos solo clasifican autopistas y autovías."
+   },
+   "c": "C",
+   "ref": "Norma 3.1-IC, ap. 2.1",
+   "cita": "«Grupo 2: Autopistas y autovías A-120, A-110, A-100, A-90 y A-80 y carreteras C-100».",
+   "w": {
+    "A": "El Grupo 1 solo incluye A-140 y A-130.",
+    "B": "El Grupo 3 empieza en C-90.",
+    "D": "Los grupos incluyen también carreteras C."
+   }
+  },
+  {
+   "n": 7,
+   "tema": "Tema 3",
+   "e": "Señale la respuesta correcta. Según el apartado 3.1 de la Norma 3.1-IC, la V85 es la velocidad operativa característica de un elemento, representada por el percentil 85 de la distribución de velocidades libres temporales de:",
+   "o": {
+    "A": "Vehículos ligeros observadas en servicio, que en fase de proyecto deberá ser estimada.",
+    "B": "Vehículos pesados observadas en servicio, que en fase de proyecto deberá ser estimada.",
+    "C": "Todos los vehículos observadas en servicio, que en fase de proyecto deberá ser medida.",
+    "D": "Vehículos ligeros con pavimento húmedo, que en fase de proyecto deberá ser medida."
+   },
+   "c": "A",
+   "ref": "Norma 3.1-IC, ap. 3.1",
+   "cita": "«…de vehículos ligeros observadas en servicio. En fase de proyecto deberá ser estimada».",
+   "w": {
+    "B": "Se refiere a vehículos ligeros, no pesados.",
+    "C": "No son todos los vehículos y en proyecto se estima, no se mide.",
+    "D": "El pavimento húmedo aparece en la velocidad específica (Ve); además se estima, no se mide."
+   }
+  },
+  {
+   "n": 8,
+   "tema": "Tema 3",
+   "e": "Señale la respuesta correcta. Según el epígrafe 3.2.2 de la Norma 3.1-IC, la altura del obstáculo para la visibilidad de parada se fija en 50 cm. Donde puedan existir obstáculos de altura inferior, se analizará fijar otra altura no inferior a:",
+   "o": {
+    "A": "Treinta centímetros (30 cm).",
+    "B": "Diez centímetros (10 cm).",
+    "C": "Quince centímetros (15 cm).",
+    "D": "Veinte centímetros (20 cm)."
+   },
+   "c": "D",
+   "ref": "Norma 3.1-IC, ep. 3.2.2",
+   "cita": "«se analizará la conveniencia de fijar otra altura del obstáculo con un valor no inferior a veinte centímetros (≮ 20 cm)».",
+   "w": {
+    "A": "30 cm no figura en el epígrafe.",
+    "B": "10 cm queda por debajo del mínimo de 20 cm.",
+    "C": "15 cm queda por debajo del mínimo de 20 cm."
+   }
+  },
+  {
+   "n": 9,
+   "tema": "Tema 3",
+   "e": "Señale la respuesta correcta. Según el epígrafe 3.2.5 de la Norma 3.1-IC, la distancia de decisión (Dd) corresponde a la distancia recorrida:",
+   "o": {
+    "A": "En dos segundos (2 s) a la velocidad de proyecto del tramo considerado.",
+    "B": "En diez segundos (10 s) a la velocidad de proyecto del tramo considerado.",
+    "C": "En diez segundos (10 s) a la V85 estimada del tramo considerado.",
+    "D": "En seis segundos (6 s) a la velocidad de proyecto del tramo considerado."
+   },
+   "c": "B",
+   "ref": "Norma 3.1-IC, ep. 3.2.5",
+   "cita": "«corresponde a la distancia recorrida en diez segundos (10 s) a la velocidad de proyecto (Vp)».",
+   "w": {
+    "A": "2 s es el tiempo de percepción y reacción de la distancia de parada.",
+    "C": "Se calcula con la Vp, no con la V85.",
+    "D": "El tiempo es de 10 s."
+   }
+  },
+  {
+   "n": 10,
+   "tema": "Tema 3",
+   "e": "Señale la respuesta INCORRECTA. Según el apartado 2.3 de la Norma 3.1-IC, en relación con los tipos de proyectos:",
+   "o": {
+    "A": "La Norma no será de aplicación en los proyectos de acondicionamiento ni en los de duplicación de calzada.",
+    "B": "El proyecto de mejoras locales modifica las características geométricas de elementos aislados por necesidades funcionales y de seguridad.",
+    "C": "El proyecto de actuaciones específicas tiene por finalidad la mejora de algún elemento constitutivo de una carretera en servicio.",
+    "D": "La Norma no será de aplicación en los proyectos de mejoras locales y de actuaciones específicas."
+   },
+   "c": "A",
+   "ref": "Norma 3.1-IC, ap. 2.3",
+   "cita": "«La presente Norma no será de aplicación en los proyectos de mejoras locales y de actuaciones específicas».",
+   "w": {
+    "B": "Correcta: definición literal de mejoras locales.",
+    "C": "Correcta: definición de actuaciones específicas (firme, drenaje, señalización…).",
+    "D": "Correcta: son los dos únicos tipos excluidos."
+   }
+  },
+  {
+   "n": 11,
+   "tema": "Tema 4",
+   "e": "Señale la respuesta correcta. Según el epígrafe 4.2.1 de la Norma 3.1-IC, en una alineación recta entre curvas con radios de curvatura de sentido contrario (trazado en «S»), se procurará que la longitud mínima en metros sea:",
+   "o": {
+    "A": "2,78 · Vp, con Vp en km/h.",
+    "B": "16,70 · Vp, con Vp en km/h.",
+    "C": "1,39 · Vp, con Vp en km/h.",
+    "D": "1,39 · V85, con V85 en km/h."
+   },
+   "c": "C",
+   "ref": "Norma 3.1-IC, ep. 4.2.1",
+   "cita": "«Lmin,s = 1,39 · Vp … para trazados en «S»».",
+   "w": {
+    "A": "2,78·Vp es Lmin,o (curvas del mismo sentido).",
+    "B": "16,70·Vp es la longitud máxima.",
+    "D": "La expresión usa la velocidad de proyecto, no la V85."
+   }
+  },
+  {
+   "n": 12,
+   "tema": "Tema 4",
+   "e": "Señale la respuesta correcta. Según el epígrafe 4.4.1 de la Norma 3.1-IC, en carreteras del Grupo 3 será necesario utilizar curvas de acuerdo en las curvas circulares de radio menor que:",
+   "o": {
+    "A": "Tres mil quinientos metros (3.500 m).",
+    "B": "Cinco mil metros (5.000 m).",
+    "C": "Siete mil quinientos metros (7.500 m).",
+    "D": "Dos mil quinientos metros (2.500 m)."
+   },
+   "c": "D",
+   "ref": "Norma 3.1-IC, ep. 4.4.1",
+   "cita": "«para curvas circulares de radio menor que dos mil quinientos metros (< 2 500 m) en carreteras del Grupo 3, será necesario utilizar curvas de acuerdo».",
+   "w": {
+    "A": "3.500 m es el radio a partir del cual el Grupo 3 lleva bombeo y no peralte.",
+    "B": "5.000 m es el umbral de los Grupos 1 y 2.",
+    "C": "7.500 m es el umbral de bombeo de los Grupos 1 y 2."
+   }
+  },
+  {
+   "n": 13,
+   "tema": "Tema 4",
+   "e": "Señale la respuesta INCORRECTA. Según el apartado 4.4 de la Norma 3.1-IC, sobre las curvas de acuerdo:",
+   "o": {
+    "A": "Para que resulten perceptibles, el retranqueo de la curva circular será mayor o igual que cincuenta centímetros.",
+    "B": "Para que resulten perceptibles, la variación de acimut entre sus extremos será mayor o igual que un noveno de radián.",
+    "C": "La longitud máxima de una curva de acuerdo no será superior a una vez y media su longitud mínima.",
+    "D": "Se adoptará en todos los casos como forma de la curva de acuerdo una clotoide."
+   },
+   "c": "B",
+   "ref": "Norma 3.1-IC, ep. 4.4.3.3",
+   "cita": "«La variación de acimut entre los extremos de la clotoide sea mayor o igual que un dieciochoavo de radián (≥ 1/18 radianes)».",
+   "w": {
+    "A": "Correcta: retranqueo ≥ 50 cm (ep. 4.4.3.3).",
+    "C": "Correcta: ≯ 1,5 veces la longitud mínima (ep. 4.4.4).",
+    "D": "Correcta: forma de clotoide en todos los casos (ep. 4.4.2)."
+   }
+  },
+  {
+   "n": 14,
+   "tema": "Tema 4",
+   "e": "Señale la respuesta correcta. Según el epígrafe 5.2.1 de la Norma 3.1-IC, el valor mínimo de la inclinación de la rasante no será menor que 0,5 %. Excepcionalmente, la rasante podrá alcanzar un valor menor, no inferior a:",
+   "o": {
+    "A": "Dos décimas por ciento (0,2 %).",
+    "B": "Una décima por ciento (0,1 %).",
+    "C": "Tres décimas por ciento (0,3 %).",
+    "D": "Cuatro décimas por ciento (0,4 %)."
+   },
+   "c": "A",
+   "ref": "Norma 3.1-IC, ep. 5.2.1",
+   "cita": "«Excepcionalmente, la rasante podrá alcanzar un valor menor, no inferior a dos décimas por ciento (≮ 0,2 %)».",
+   "w": {
+    "B": "Queda por debajo del mínimo excepcional de 0,2 %.",
+    "C": "No es el valor fijado por la Norma.",
+    "D": "No es el valor fijado por la Norma."
+   }
+  },
+  {
+   "n": 15,
+   "tema": "Tema 4",
+   "e": "Señale la respuesta correcta. Según el Capítulo 6 de la Norma 3.1-IC, la desaparición total de la plataforma del campo visual del conductor, con incertidumbre sobre la posible trayectoria a seguir, se denomina:",
+   "o": {
+    "A": "Pérdida de trazado.",
+    "B": "Pérdida dinámica.",
+    "C": "Pérdida de trazado múltiple.",
+    "D": "Pérdida de orientación."
+   },
+   "c": "D",
+   "ref": "Norma 3.1-IC, cap. 6",
+   "cita": "«Pérdida de orientación. Consiste en la desaparición total de la plataforma del campo visual del conductor con incertidumbre…».",
+   "w": {
+    "A": "La pérdida de trazado es la desaparición de un tramo de plataforma en una alineación recta.",
+    "B": "La pérdida dinámica es la desaparición parcial de la plataforma o de sus características de guiado.",
+    "C": "Es la pérdida de trazado en la que desaparecen varios tramos."
+   }
+  },
+  {
+   "n": 16,
+   "tema": "Tema 5",
+   "e": "Señale la respuesta correcta. Según el epígrafe 10.5.2 de la Norma 3.1-IC, la intersección estará canalizada cuando la IMD de algún movimiento de las vías que concurren en ella sea superior a:",
+   "o": {
+    "A": "Cien vehículos al día (100 veh/día).",
+    "B": "Quinientos vehículos al día (500 veh/día).",
+    "C": "Trescientos vehículos al día (300 veh/día).",
+    "D": "Mil vehículos al día (1.000 veh/día)."
+   },
+   "c": "C",
+   "ref": "Norma 3.1-IC, ep. 10.5.2",
+   "cita": "«Cuando la IMD de algún movimiento… sea superior a trescientos vehículos/día (> 300 veh/día) la intersección estará canalizada».",
+   "w": {
+    "A": "No es el umbral fijado.",
+    "B": "No es el umbral fijado.",
+    "D": "1.000 veh/día es un umbral de la Tabla 9.2 (giros a la izquierda), no de canalización."
+   }
+  },
+  {
+   "n": 17,
+   "tema": "Tema 5",
+   "e": "Señale la respuesta correcta. Según el epígrafe 10.6.2 de la Norma 3.1-IC, el ángulo θ entre la trayectoria de acceso a una glorieta y la trayectoria a la que se incorpora estará comprendido, salvo justificación en contrario, entre:",
+   "o": {
+    "A": "Sesenta y cinco (65) y ciento treinta y cinco (135) gonios.",
+    "B": "Cuarenta y cinco (45) y sesenta y siete (67) gonios.",
+    "C": "Ochenta (80) y ciento veinte (120) gonios.",
+    "D": "Sesenta (60) y ochenta (80) gonios."
+   },
+   "c": "B",
+   "ref": "Norma 3.1-IC, ep. 10.6.2",
+   "cita": "«estará comprendido, salvo justificación en contrario, entre 45 gonios y 67 gonios».",
+   "w": {
+    "A": "65–135 gon es el intervalo absoluto del esviaje en intersecciones.",
+    "C": "80–120 gon es el esviaje admisible en intersecciones.",
+    "D": "No es un intervalo de la Norma; 60 gon es el ángulo mínimo entre accesos."
+   }
+  },
+  {
+   "n": 18,
+   "tema": "Tema 5",
+   "e": "Señale la respuesta INCORRECTA. Según el epígrafe 10.6.1 de la Norma 3.1-IC, no funcionan como glorietas, aunque tengan su apariencia:",
+   "o": {
+    "A": "Las glorietas dobles, cuya vía de unión es tan corta que cada una influye en el funcionamiento de la otra.",
+    "B": "Las glorietas cuyas entradas a la calzada anular están controladas por semáforos.",
+    "C": "Las glorietas partidas, cuya isleta central es atravesada por una calzada que sirve a movimientos de paso.",
+    "D": "Las glorietas en hipódromo, cuya calzada anular presenta dos lados opuestos rectos, sensiblemente paralelos."
+   },
+   "c": "A",
+   "ref": "Norma 3.1-IC, ep. 10.6.1",
+   "cita": "«Sí funcionan como glorietas… las de reducido tamaño (mini-glorietas), y las glorietas dobles…».",
+   "w": {
+    "B": "Correcta: con semáforos no funcionan como glorietas.",
+    "C": "Correcta: las partidas no funcionan como glorietas.",
+    "D": "Correcta: las de hipódromo no funcionan como glorietas."
+   }
+  },
+  {
+   "n": 19,
+   "tema": "Tema 5",
+   "e": "Señale la respuesta correcta. Según el epígrafe 10.7.1 de la Norma 3.1-IC, en carreteras urbanas y periurbanas de calzadas separadas, si la distancia entre enlaces consecutivos fuese menor que dos kilómetros (< 2 km):",
+   "o": {
+    "A": "Se dispondrán vías de servicio.",
+    "B": "Se dispondrán ramales de transferencia.",
+    "C": "Se unirán entrada y salida mediante un carril de trenzado.",
+    "D": "Se dispondrán vías colectoras-distribuidoras."
+   },
+   "c": "D",
+   "ref": "Norma 3.1-IC, ep. 10.7.1",
+   "cita": "«Si la distancia… fuese menor que dos kilómetros (< 2 km) se dispondrán vías colectoras-distribuidoras».",
+   "w": {
+    "A": "Las vías de servicio canalizan accesos, no resuelven la proximidad de enlaces.",
+    "B": "Los ramales de transferencia conectan calzada central y vía complementaria.",
+    "C": "El carril de trenzado es una solución entre conexiones (cap. 9), no la que fija este epígrafe."
+   }
+  },
+  {
+   "n": 20,
+   "tema": "Tema 5",
+   "e": "Señale la respuesta INCORRECTA. Según el apartado 8.4 de la Norma 3.1-IC, sobre las confluencias y bifurcaciones:",
+   "o": {
+    "A": "Los carriles de confluencia son los que, después de una confluencia, se suprimen progresivamente hasta alcanzar el número de carriles básicos.",
+    "B": "En los tramos de confluencia y bifurcación no se modificará el ancho de los arcenes.",
+    "C": "En los tramos de confluencia y bifurcación podrán disponerse conexiones y accesos, de forma justificada.",
+    "D": "Los carriles bífidos proporcionan una variación lineal del ancho de carril entre 3,50 m y 7,00 m."
+   },
+   "c": "C",
+   "ref": "Norma 3.1-IC, ap. 8.4",
+   "cita": "«No se podrán disponer conexiones y accesos en los tramos de confluencia y bifurcación».",
+   "w": {
+    "A": "Correcta: definición de carril de confluencia.",
+    "B": "Correcta: literal del ap. 8.4.",
+    "D": "Correcta: ancho variable de 3,50 a 7,00 m."
+   }
+  },
+  {
+   "n": 21,
+   "tema": "Tema 6",
+   "e": "Señale la respuesta correcta. Según el apartado 1.3 de la Norma 5.2-IC Drenaje superficial, en el caso excepcional de drenaje de plataforma y márgenes por bombeo (p. ej., pasos inferiores sin desagüe por gravedad), el periodo de retorno será:",
+   "o": {
+    "A": "Cincuenta años (T = 50 años).",
+    "B": "Veinticinco años (T = 25 años).",
+    "C": "Cien años (T = 100 años).",
+    "D": "Quinientos años (T = 500 años)."
+   },
+   "c": "A",
+   "ref": "Tema 6, ap. 2 (5.2-IC, ap. 1.3)",
+   "cita": "«Excepción: drenaje por bombeo… T = 50 años».",
+   "w": {
+    "B": "25 años es el general del drenaje de plataforma y márgenes por gravedad.",
+    "C": "T ≥ 100 años es el del drenaje transversal.",
+    "D": "500 años es la comprobación que puede exigir la Administración Hidráulica."
+   }
+  },
+  {
+   "n": 22,
+   "tema": "Tema 6",
+   "e": "Señale la respuesta correcta. Según la Norma 5.2-IC, el método racional para el cálculo de caudales se aplica en cuencas pequeñas, de área inferior a:",
+   "o": {
+    "A": "Un kilómetro cuadrado (1 km²).",
+    "B": "Veinticinco kilómetros cuadrados (25 km²).",
+    "C": "Cien kilómetros cuadrados (100 km²).",
+    "D": "Cincuenta kilómetros cuadrados (50 km²)."
+   },
+   "c": "D",
+   "ref": "Tema 6, ap. 3.1",
+   "cita": "«Método racional… cuencas pequeñas, área < 50 km²».",
+   "w": {
+    "A": "1 km² es el umbral del factor reductor por área KA.",
+    "B": "No es el umbral del método.",
+    "C": "Por encima de 50 km² se usan modelos de simulación o métodos estadísticos."
+   }
+  },
+  {
+   "n": 23,
+   "tema": "Tema 6",
+   "e": "Señale la respuesta correcta. Según los criterios básicos de la Norma 5.2-IC, la lámina de agua en los elementos longitudinales no debe alcanzar el arcén y, salvo justificación de un valor menor, mantendrá respecto de la calzada un resguardo mayor o igual que:",
+   "o": {
+    "A": "Dos centímetros (2 cm).",
+    "B": "Diez centímetros (10 cm).",
+    "C": "Cinco centímetros (5 cm).",
+    "D": "Quince centímetros (15 cm)."
+   },
+   "c": "C",
+   "ref": "Tema 6, ap. 2 (criterio b)",
+   "cita": "«resguardo respecto de la calzada ≥ 5 cm y no alcanzar el arcén, salvo justificación de un valor menor».",
+   "w": {
+    "A": "Inferior al resguardo fijado.",
+    "B": "No es el valor del criterio.",
+    "D": "No es el valor del criterio."
+   }
+  },
+  {
+   "n": 24,
+   "tema": "Tema 6",
+   "e": "Señale la respuesta INCORRECTA. Según las Recomendaciones aprobadas por la Orden Circular 17/2003 de drenaje subterráneo:",
+   "o": {
+    "A": "La pendiente mínima del fondo de las zanjas drenantes será del 0,5 %.",
+    "B": "Para captar el agua del terreno se proyectarán colectores perforados.",
+    "C": "La distancia máxima entre arquetas de las zanjas drenantes será de 50 m.",
+    "D": "La tubería drenante tendrá un diámetro interior mínimo de 150 mm, salvo justificación."
+   },
+   "c": "B",
+   "ref": "Tema 6, ap. 6.3 (OC 17/2003)",
+   "cita": "«No se proyectan colectores perforados para captar agua del terreno».",
+   "w": {
+    "A": "Correcta: pendiente mínima 0,5 %.",
+    "C": "Correcta: arquetas cada 50 m como máximo.",
+    "D": "Correcta: Ø interior mínimo 150 mm."
+   }
+  },
+  {
+   "n": 25,
+   "tema": "Tema 6",
+   "e": "Señale la respuesta correcta. Entre las funciones de los geotextiles, la de conducir el agua en su propio plano hacia un punto de evacuación es la función de:",
+   "o": {
+    "A": "Drenaje.",
+    "B": "Filtración.",
+    "C": "Separación.",
+    "D": "Barrera."
+   },
+   "c": "A",
+   "ref": "Tema 6, ap. 7.2",
+   "cita": "«Drenaje: conduce el agua en su propio plano (transmisividad), hacia un punto de evacuación».",
+   "w": {
+    "B": "La filtración deja pasar el agua a través del plano reteniendo partículas.",
+    "C": "La separación evita la mezcla de dos materiales.",
+    "D": "La barrera impide el paso de fluidos."
+   }
+  },
+  {
+   "n": 26,
+   "tema": "Tema 7",
+   "e": "Señale la respuesta correcta. Según el apartado 3.2.3 de la Norma de Secciones de Firme de la Comunitat Valenciana, la categoría de explanada se determina con un deflectómetro de impacto configurado para ejercer una carga de:",
+   "o": {
+    "A": "Sesenta y cuatro kilonewtons (64 kN) sobre una placa de 30 cm de diámetro.",
+    "B": "Ciento veintiocho kilonewtons (128 kN) sobre una placa de 30 cm de diámetro.",
+    "C": "Cuarenta y nueve kilonewtons (49 kN) sobre una placa de 15 cm de diámetro.",
+    "D": "Cuarenta y nueve kilonewtons (49 kN) sobre una placa de 30 cm de diámetro."
+   },
+   "c": "D",
+   "ref": "Norma Secciones de Firme CV, ap. 3.2.3",
+   "cita": "«configurado para ejercer una carga de 49 kN sobre una placa de 30 cm de diámetro».",
+   "w": {
+    "A": "64 kN fue la segunda carga usada en la campaña de validación (Anexo B).",
+    "B": "128 kN es el eje equivalente de cálculo del tráfico.",
+    "C": "15 cm es el radio de la placa, no el diámetro."
+   }
+  },
+  {
+   "n": 27,
+   "tema": "Tema 7",
+   "e": "Señale la respuesta correcta. Según el apartado 3.1.1 de la Norma de Secciones de Firme de la CV, a falta de datos de asignación por carriles, en calzadas de tres o más carriles por sentido incide sobre el carril exterior:",
+   "o": {
+    "A": "La totalidad de los vehículos pesados que circulan por la calzada.",
+    "B": "El 85 % de los vehículos pesados que circulan por la calzada.",
+    "C": "El 75 % de los vehículos pesados que circulan por la calzada.",
+    "D": "La mitad de los vehículos pesados que circulan por la calzada."
+   },
+   "c": "B",
+   "ref": "Norma Secciones de Firme CV, ap. 3.1.1",
+   "cita": "«incide sobre el carril exterior el 85 % de los vehículos pesados que circulan por la calzada».",
+   "w": {
+    "A": "La totalidad es para calzadas de dos carriles por sentido.",
+    "C": "No es la hipótesis de la Norma.",
+    "D": "La mitad es para cada carril de calzadas de dos carriles y doble sentido."
+   }
+  },
+  {
+   "n": 28,
+   "tema": "Tema 7",
+   "e": "Señale la respuesta correcta. Según el apartado 3.1.1 de la Norma de Secciones de Firme de la CV, a falta de datos concretos, puede considerarse que el año de puesta en servicio es:",
+   "o": {
+    "A": "El primero a partir de la fecha de redacción del proyecto.",
+    "B": "El segundo a partir de la fecha de redacción del proyecto.",
+    "C": "El tercero a partir de la fecha de redacción del proyecto.",
+    "D": "El quinto a partir de la fecha de redacción del proyecto."
+   },
+   "c": "C",
+   "ref": "Norma Secciones de Firme CV, ap. 3.1.1",
+   "cita": "«Puede considerarse que el año de puesta en servicio es el tercero a partir de la fecha de redacción del proyecto».",
+   "w": {
+    "A": "No es la hipótesis de la Norma.",
+    "B": "No es la hipótesis de la Norma.",
+    "D": "Cinco años es el periodo para obtener la tasa media de crecimiento."
+   }
+  },
+  {
+   "n": 29,
+   "tema": "Tema 7",
+   "e": "Señale la respuesta INCORRECTA. Según el apartado 3.1.1 de la Norma 6.3-IC Rehabilitación de firmes, la necesidad de una rehabilitación estructural se planteará si concurre alguna de las circunstancias siguientes:",
+   "o": {
+    "A": "Pavimento deslizante por pulimento o por falta de macrotextura.",
+    "B": "Agotamiento estructural del firme.",
+    "C": "Previsión de crecimiento importante de la intensidad de tráfico pesado.",
+    "D": "Gastos excesivos de conservación ordinaria."
+   },
+   "c": "A",
+   "ref": "Norma 6.3-IC, ap. 3.1.1 y 3.1.2",
+   "cita": "El pavimento deslizante figura en el ap. 3.1.2 como causa de «rehabilitación superficial».",
+   "w": {
+    "B": "Correcta: 1.ª circunstancia del ap. 3.1.1.",
+    "C": "Correcta: 2.ª circunstancia del ap. 3.1.1.",
+    "D": "Correcta: 3.ª circunstancia del ap. 3.1.1."
+   }
+  },
+  {
+   "n": 30,
+   "tema": "Tema 7",
+   "e": "Señale la respuesta correcta. La aplicación de un ligante hidrocarbonado sobre una capa granular, previa a la colocación sobre ésta de una capa bituminosa, se denomina:",
+   "o": {
+    "A": "Riego de adherencia.",
+    "B": "Riego de curado.",
+    "C": "Riego de imprimación.",
+    "D": "Tratamiento superficial."
+   },
+   "c": "C",
+   "ref": "Norma 6.1-IC, ap. 10 (definiciones); PG-3 art. 530",
+   "cita": "«Riego de imprimación: aplicación de un ligante hidrocarbonado sobre una capa granular, previa a la colocación… de una capa bituminosa».",
+   "w": {
+    "A": "El de adherencia se aplica sobre capa tratada (ligantes o conglomerantes).",
+    "B": "El de curado se aplica sobre capa tratada con conglomerante hidráulico.",
+    "D": "El tratamiento superficial dota de características superficiales, no es un riego previo."
+   }
+  }
+ ]
+}

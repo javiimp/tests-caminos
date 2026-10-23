@@ -1,0 +1,7 @@
+{
+ "tests": [
+  "test01_carreteras.json",
+  "test02_medioambiente_urbanismo.json",
+  "test03_contratos_seguridad.json"
+ ]
+}

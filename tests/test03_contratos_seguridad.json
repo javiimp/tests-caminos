@@ -1,0 +1,577 @@
+{
+ "id": "test03",
+ "titulo": "Test 3 · Contratos y seguridad y salud (Temas 43, 44 y 45)",
+ "normas": "Ley 9/2017 de Contratos del Sector Público (arts. 203-213 y 231-246) · RGLCAP, RD 1098/2001 · RD 1627/1997 de seguridad y salud en las obras de construcción",
+ "preguntas": [
+  {
+   "n": 1,
+   "tema": "Tema 43",
+   "e": "Señale la respuesta correcta. Según el artículo 204 de la Ley 9/2017, de Contratos del Sector Público, cuando el pliego de cláusulas administrativas particulares lo hubiera advertido expresamente, los contratos de las Administraciones Públicas podrán modificarse hasta un máximo del:",
+   "o": {
+    "A": "10 % del precio inicial.",
+    "B": "50 % del precio inicial.",
+    "C": "20 % del precio inicial.",
+    "D": "15 % del precio inicial."
+   },
+   "c": "C",
+   "ref": "LCSP, art. 204.1",
+   "cita": "«…podrán modificarse durante su vigencia hasta un máximo del veinte por ciento del precio inicial…».",
+   "w": {
+    "A": "El 10 % es el umbral de modificación sustancial en contratos distintos del de obras (art. 205.2.c).",
+    "B": "El 50 % es el límite de las modificaciones no previstas del art. 205.2.a) y b).",
+    "D": "El 15 % es el umbral de modificación sustancial en el contrato de obras (art. 205.2.c)."
+   }
+  },
+  {
+   "n": 2,
+   "tema": "Tema 43",
+   "e": "Señale la respuesta correcta. Según el artículo 205 de la LCSP, se considera en todo caso sustancial la modificación que altere el equilibrio económico a favor del contratista introduciendo unidades de obra nuevas cuyo importe represente más del:",
+   "o": {
+    "A": "50 % del presupuesto inicial del contrato.",
+    "B": "20 % del presupuesto inicial del contrato.",
+    "C": "15 % del presupuesto inicial del contrato.",
+    "D": "10 % del presupuesto inicial del contrato."
+   },
+   "c": "A",
+   "ref": "LCSP, art. 205.2.c.2.º",
+   "cita": "«…cuando… se introducirían unidades de obra nuevas cuyo importe representaría más del 50 por ciento del presupuesto inicial del contrato».",
+   "w": {
+    "B": "El 20 % es el límite de las modificaciones previstas (art. 204) y de la obligatoriedad (art. 206).",
+    "C": "El 15 % se refiere a la ampliación importante del ámbito en obras, no a las unidades nuevas.",
+    "D": "No es el umbral fijado para las unidades de obra nuevas."
+   }
+  },
+  {
+   "n": 3,
+   "tema": "Tema 43",
+   "e": "Señale la respuesta correcta. Según el artículo 205 de la LCSP, en la modificación no prevista por prestaciones adicionales, en ningún caso se considerará un inconveniente significativo para el órgano de contratación:",
+   "o": {
+    "A": "Las dificultades técnicas de uso o de mantenimiento que resulten desproporcionadas.",
+    "B": "Las incompatibilidades técnicas con las prestaciones inicialmente contratadas.",
+    "C": "Un aumento sustancial de costes derivado del cambio de contratista.",
+    "D": "La necesidad de celebrar una nueva licitación para cambiar de contratista."
+   },
+   "c": "D",
+   "ref": "LCSP, art. 205.2.a.1.º",
+   "cita": "«En ningún caso se considerará un inconveniente significativo la necesidad de celebrar una nueva licitación para permitir el cambio de contratista».",
+   "w": {
+    "A": "Son razones técnicas que impiden el cambio de contratista.",
+    "B": "Son razones técnicas que impiden el cambio de contratista.",
+    "C": "La Ley lo cita expresamente como inconveniente que justifica la modificación."
+   }
+  },
+  {
+   "n": 4,
+   "tema": "Tema 43",
+   "e": "Señale la respuesta INCORRECTA. Según los artículos 206 y 207 de la LCSP:",
+   "o": {
+    "A": "Si la modificación no es obligatoria y el contratista no da su conformidad por escrito, se resolverá el contrato.",
+    "B": "La modificación se anunciará en el perfil de contratante en el plazo de 5 días desde su aprobación.",
+    "C": "Antes de una modificación no prevista se oirá al redactor externo del proyecto durante al menos diez días.",
+    "D": "Las modificaciones del artículo 205 son obligatorias para el contratista si no exceden del 20 % del precio inicial, IVA excluido."
+   },
+   "c": "C",
+   "ref": "LCSP, art. 207.2",
+   "cita": "«…deberá darse audiencia al redactor del proyecto… para que, en un plazo no inferior a tres días, formule las consideraciones…».",
+   "w": {
+    "A": "Correcta: art. 206.2, causa g) del art. 211.1.",
+    "B": "Correcta: art. 207.3, en todos los contratos.",
+    "D": "Correcta: art. 206.1."
+   }
+  },
+  {
+   "n": 5,
+   "tema": "Tema 43",
+   "e": "Señale la respuesta correcta. Según el artículo 208 de la LCSP, el derecho del contratista a reclamar los daños y perjuicios por la suspensión del contrato prescribe en:",
+   "o": {
+    "A": "Un año desde que reciba la orden de reanudar la ejecución.",
+    "B": "Dos años desde la fecha del acta de suspensión.",
+    "C": "Seis meses desde que reciba la orden de reanudar la ejecución.",
+    "D": "Un año desde la fecha del acta de suspensión."
+   },
+   "c": "A",
+   "ref": "LCSP, art. 208.2.c",
+   "cita": "«El derecho a reclamar prescribe en un año contado desde que el contratista reciba la orden de reanudar la ejecución del contrato».",
+   "w": {
+    "B": "Ni el plazo ni el día inicial son los de la Ley.",
+    "C": "El plazo de prescripción es de un año.",
+    "D": "El cómputo se inicia con la orden de reanudar la ejecución."
+   }
+  },
+  {
+   "n": 6,
+   "tema": "Tema 43",
+   "e": "Señale la respuesta correcta. Según el artículo 210 de la LCSP, la constatación del cumplimiento del contrato exigirá por parte de la Administración un acto formal y positivo de recepción o conformidad, salvo otro plazo fijado en el pliego, dentro de:",
+   "o": {
+    "A": "El mes siguiente a la entrega o realización del objeto del contrato.",
+    "B": "Los treinta días siguientes a la presentación de la factura.",
+    "C": "Los quince días siguientes a la entrega o realización del objeto del contrato.",
+    "D": "Los dos meses siguientes a la entrega o realización del objeto del contrato."
+   },
+   "c": "A",
+   "ref": "LCSP, art. 210.2",
+   "cita": "«…un acto formal y positivo de recepción o conformidad dentro del mes siguiente a la entrega o realización del objeto del contrato…».",
+   "w": {
+    "B": "Treinta días es el plazo de la liquidación en contratos distintos del de obras (art. 210.4).",
+    "C": "El plazo general es de un mes.",
+    "D": "El plazo general es de un mes."
+   }
+  },
+  {
+   "n": 7,
+   "tema": "Tema 43",
+   "e": "Señale la respuesta correcta. Según el artículo 211 de la LCSP, es causa de resolución en todo caso el retraso injustificado sobre el plan de trabajos, en cualquier actividad, por un plazo superior a:",
+   "o": {
+    "A": "Un tercio del plazo de duración inicial del contrato, excluidas las posibles prórrogas.",
+    "B": "La mitad del plazo de duración inicial del contrato, incluidas las posibles prórrogas.",
+    "C": "Un tercio del plazo de duración inicial del contrato, incluidas las posibles prórrogas.",
+    "D": "Un cuarto del plazo de duración inicial del contrato, incluidas las posibles prórrogas."
+   },
+   "c": "C",
+   "ref": "LCSP, art. 211.1.d",
+   "cita": "«…por un plazo superior a un tercio del plazo de duración inicial del contrato, incluidas las posibles prórrogas».",
+   "w": {
+    "A": "La Ley incluye las prórrogas en el cómputo.",
+    "B": "La fracción es un tercio.",
+    "D": "La fracción es un tercio."
+   }
+  },
+  {
+   "n": 8,
+   "tema": "Tema 43",
+   "e": "Señale la respuesta correcta. Según el artículo 211 de la LCSP, cuando concurran diversas causas de resolución con diferentes efectos en cuanto a las consecuencias económicas de la extinción, deberá atenderse a la que:",
+   "o": {
+    "A": "Sea imputable al contratista.",
+    "B": "Determine motivadamente el órgano de contratación.",
+    "C": "Tenga mayores efectos económicos para el contratista.",
+    "D": "Haya aparecido con prioridad en el tiempo."
+   },
+   "c": "D",
+   "ref": "LCSP, art. 211.2",
+   "cita": "«…deberá atenderse a la que haya aparecido con prioridad en el tiempo».",
+   "w": {
+    "A": "La imputabilidad no es el criterio de prelación.",
+    "B": "La Ley fija el criterio; no lo deja a la elección del órgano.",
+    "C": "El criterio legal es temporal, no económico."
+   }
+  },
+  {
+   "n": 9,
+   "tema": "Tema 43",
+   "e": "Señale la respuesta correcta. Según el artículo 213 de la LCSP, cuando la resolución se acuerde por imposibilidad de ejecutar la prestación en los términos pactados (causa g del art. 211), el contratista tendrá derecho, salvo que la causa le sea imputable, a una indemnización del:",
+   "o": {
+    "A": "5 % del importe de la prestación dejada de realizar.",
+    "B": "3 % del precio de adjudicación del contrato.",
+    "C": "6 % del importe de la prestación dejada de realizar.",
+    "D": "3 % del importe de la prestación dejada de realizar."
+   },
+   "c": "D",
+   "ref": "LCSP, art. 213.4",
+   "cita": "«…el contratista tendrá derecho a una indemnización del 3 por ciento del importe de la prestación dejada de realizar…».",
+   "w": {
+    "A": "El porcentaje es el 3 %.",
+    "B": "La base de cálculo es la prestación dejada de realizar, no el precio de adjudicación.",
+    "C": "El 6 % es la indemnización del desistimiento en obras ya iniciadas (art. 246.4)."
+   }
+  },
+  {
+   "n": 10,
+   "tema": "Tema 43",
+   "e": "Señale la respuesta correcta. Según el artículo 100 del RGLCAP, aprobado por Real Decreto 1098/2001, la petición de prórroga del plazo de ejecución por parte del contratista deberá formularse en un plazo máximo de:",
+   "o": {
+    "A": "Un mes desde aquel en que se produzca la causa originaria del retraso.",
+    "B": "Quince días desde aquel en que se produzca la causa originaria del retraso.",
+    "C": "Quince días antes de la terminación del plazo de ejecución del contrato.",
+    "D": "Diez días desde aquel en que se produzca la causa originaria del retraso."
+   },
+   "c": "B",
+   "ref": "RGLCAP, art. 100.1",
+   "cita": "«La petición de prórroga… deberá tener lugar en un plazo máximo de quince días desde aquél en que se produzca la causa originaria del retraso…».",
+   "w": {
+    "A": "El plazo es de quince días.",
+    "C": "El plazo se cuenta desde la causa del retraso, no hacia atrás desde el vencimiento.",
+    "D": "El plazo es de quince días."
+   }
+  },
+  {
+   "n": 11,
+   "tema": "Tema 43",
+   "e": "Señale la respuesta INCORRECTA. Según el Reglamento general de la Ley de Contratos de las Administraciones Públicas (RD 1098/2001):",
+   "o": {
+    "A": "En el expediente contradictorio, la audiencia del contratista y el informe del servicio competente se evacuan en cinco días hábiles.",
+    "B": "La aprobación de una modificación por el órgano de contratación no requiere la previa audiencia del contratista.",
+    "C": "El acta de suspensión se levantará en el plazo máximo de dos días hábiles desde el día siguiente al acuerdo.",
+    "D": "La alteración del precio por aplicación de cláusulas de revisión no tiene carácter de modificación del contrato."
+   },
+   "c": "B",
+   "ref": "RGLCAP, art. 102",
+   "cita": "«La aprobación por el órgano de contratación requerirá la previa audiencia del contratista y la fiscalización del gasto correspondiente».",
+   "w": {
+    "A": "Correcta: art. 97.",
+    "C": "Correcta: art. 103.1.",
+    "D": "Correcta: art. 101."
+   }
+  },
+  {
+   "n": 12,
+   "tema": "Tema 44",
+   "e": "Señale la respuesta correcta. Según el artículo 232 de la LCSP, las obras necesarias para enmendar un menoscabo producido en un bien inmueble por causas fortuitas o accidentales, cuando afecten fundamentalmente a la estructura resistente, son obras de:",
+   "o": {
+    "A": "Rehabilitación.",
+    "B": "Reparación simple.",
+    "C": "Conservación.",
+    "D": "Gran reparación."
+   },
+   "c": "D",
+   "ref": "LCSP, art. 232.4",
+   "cita": "«Cuando afecten fundamentalmente a la estructura resistente tendrán la calificación de gran reparación y, en caso contrario, de reparación simple».",
+   "w": {
+    "A": "La rehabilitación repara conservando la estética y dota de una nueva funcionalidad.",
+    "B": "Es la reparación que no afecta fundamentalmente a la estructura resistente.",
+    "C": "La conservación enmienda el menoscabo producido por el natural uso del bien."
+   }
+  },
+  {
+   "n": 13,
+   "tema": "Tema 44",
+   "e": "Señale la respuesta INCORRECTA. Según el artículo 233 de la LCSP, los proyectos de obras deberán comprender, al menos:",
+   "o": {
+    "A": "Un programa de desarrollo de los trabajos de carácter indicativo.",
+    "B": "El pliego de prescripciones técnicas particulares.",
+    "C": "El pliego de cláusulas administrativas particulares.",
+    "D": "El estudio de seguridad y salud o, en su caso, el estudio básico."
+   },
+   "c": "C",
+   "ref": "LCSP, art. 233.1",
+   "cita": "El art. 233.1 enumera memoria, planos, pliego de prescripciones técnicas particulares, presupuesto, programa de trabajos, referencias de replanteo y estudio de seguridad y salud; el PCAP no forma parte del proyecto.",
+   "w": {
+    "A": "Correcta: art. 233.1.e.",
+    "B": "Correcta: art. 233.1.c.",
+    "D": "Correcta: art. 233.1.g."
+   }
+  },
+  {
+   "n": 14,
+   "tema": "Tema 44",
+   "e": "Señale la respuesta correcta. Según el artículo 237 de la LCSP, salvo casos excepcionales justificados, la comprobación del replanteo se efectuará dentro del plazo que se consigne en el contrato, que no podrá ser superior a:",
+   "o": {
+    "A": "Dos meses desde la fecha de su formalización.",
+    "B": "Quince días desde la fecha de su formalización.",
+    "C": "Un mes desde la fecha de su adjudicación.",
+    "D": "Un mes desde la fecha de su formalización."
+   },
+   "c": "D",
+   "ref": "LCSP, art. 237",
+   "cita": "«…dentro del plazo que se consigne en el contrato que no podrá ser superior a un mes desde la fecha de su formalización salvo casos excepcionales justificados…».",
+   "w": {
+    "A": "El plazo máximo es de un mes.",
+    "B": "El plazo máximo es de un mes.",
+    "C": "El plazo se cuenta desde la formalización."
+   }
+  },
+  {
+   "n": 15,
+   "tema": "Tema 44",
+   "e": "Señale la respuesta INCORRECTA. Según el artículo 239 de la LCSP, tendrán la consideración de casos de fuerza mayor:",
+   "o": {
+    "A": "Los incendios causados por la electricidad atmosférica.",
+    "B": "Los destrozos ocasionados violentamente en tiempo de guerra o por robos tumultuosos.",
+    "C": "Los fenómenos naturales de efectos catastróficos, como terremotos, temporales marítimos o inundaciones.",
+    "D": "Los incendios de cualquier origen producidos en la obra."
+   },
+   "c": "D",
+   "ref": "LCSP, art. 239.2.a",
+   "cita": "Solo son fuerza mayor «los incendios causados por la electricidad atmosférica»; la lista del art. 239.2 es cerrada.",
+   "w": {
+    "A": "Correcta: art. 239.2.a.",
+    "B": "Correcta: art. 239.2.c.",
+    "C": "Correcta: art. 239.2.b."
+   }
+  },
+  {
+   "n": 16,
+   "tema": "Tema 44",
+   "e": "Señale la respuesta correcta. Según el artículo 240 de la LCSP, a los efectos del pago, la Administración expedirá mensualmente certificaciones de la obra ejecutada, salvo prevención en contrario en el pliego, en los primeros:",
+   "o": {
+    "A": "Cinco días siguientes al mes al que correspondan.",
+    "B": "Veinte días siguientes al mes al que correspondan.",
+    "C": "Diez días siguientes al mes al que correspondan.",
+    "D": "Quince días siguientes al mes al que correspondan."
+   },
+   "c": "C",
+   "ref": "LCSP, art. 240.1",
+   "cita": "«…la Administración expedirá mensualmente, en los primeros diez días siguientes al mes al que correspondan, certificaciones…».",
+   "w": {
+    "A": "El plazo es de diez días.",
+    "B": "El plazo es de diez días.",
+    "D": "El plazo es de diez días."
+   }
+  },
+  {
+   "n": 17,
+   "tema": "Tema 44",
+   "e": "Señale la respuesta correcta. Según el artículo 242 de la LCSP, no tendrá la consideración de modificación el exceso de mediciones siempre que, en global, no represente un incremento del gasto superior al:",
+   "o": {
+    "A": "15 % del precio del contrato inicial.",
+    "B": "10 % del precio del contrato inicial.",
+    "C": "3 % del presupuesto primitivo del contrato.",
+    "D": "20 % del precio del contrato inicial."
+   },
+   "c": "B",
+   "ref": "LCSP, art. 242.4.i",
+   "cita": "«…siempre que en global no representen un incremento del gasto superior al 10 por ciento del precio del contrato inicial».",
+   "w": {
+    "A": "El 15 % es el umbral de modificación sustancial en obras (art. 205).",
+    "C": "El 3 % es el límite de los precios nuevos fijados contradictoriamente.",
+    "D": "El 20 % es el límite de las modificaciones obligatorias (art. 206)."
+   }
+  },
+  {
+   "n": 18,
+   "tema": "Tema 44",
+   "e": "Señale la respuesta correcta. Según el artículo 244 de la LCSP, si la obra se arruina con posterioridad a la expiración del plazo de garantía por vicios ocultos debidos a incumplimiento del contratista, este responderá de los daños que se produzcan o manifiesten durante:",
+   "o": {
+    "A": "Quince años desde la recepción; las acciones prescriben a los cinco años.",
+    "B": "Quince años desde la recepción; las acciones prescriben a los dos años.",
+    "C": "Diez años desde la recepción; las acciones prescriben a los dos años.",
+    "D": "Diez años desde el fin del plazo de garantía; las acciones prescriben al año."
+   },
+   "c": "B",
+   "ref": "LCSP, art. 244.1 y 2",
+   "cita": "«…durante un plazo de quince años a contar desde la recepción» y las acciones «prescribirán en el plazo de dos años».",
+   "w": {
+    "A": "Las acciones prescriben a los dos años.",
+    "C": "La responsabilidad es de quince años.",
+    "D": "Ni el plazo ni el día inicial ni la prescripción son los de la Ley."
+   }
+  },
+  {
+   "n": 19,
+   "tema": "Tema 44",
+   "e": "Señale la respuesta correcta. Según el artículo 245 de la LCSP, es causa de resolución del contrato de obras la suspensión de la iniciación de las obras por plazo superior a:",
+   "o": {
+    "A": "Cuatro meses.",
+    "B": "Ocho meses.",
+    "C": "Tres meses.",
+    "D": "Seis meses."
+   },
+   "c": "A",
+   "ref": "LCSP, art. 245.b",
+   "cita": "«La suspensión de la iniciación de las obras por plazo superior a cuatro meses».",
+   "w": {
+    "B": "Ocho meses es el plazo de suspensión de obras ya iniciadas (art. 245.c).",
+    "C": "El plazo es de cuatro meses.",
+    "D": "Seis meses era el plazo de la legislación anterior que aún recoge el art. 139 RGLCAP."
+   }
+  },
+  {
+   "n": 20,
+   "tema": "Tema 44",
+   "e": "Señale la respuesta correcta. Según el artículo 246 de la LCSP, si se demorase injustificadamente la comprobación del replanteo, dando lugar a la resolución del contrato, el contratista solo tendrá derecho por todos los conceptos a una indemnización equivalente al:",
+   "o": {
+    "A": "6 % del precio de las obras dejadas de realizar, IVA excluido.",
+    "B": "3 % del precio de la adjudicación, IVA excluido.",
+    "C": "2 % del precio de la adjudicación, IVA incluido.",
+    "D": "2 % del precio de la adjudicación, IVA excluido."
+   },
+   "c": "D",
+   "ref": "LCSP, art. 246.2",
+   "cita": "«…el contratista solo tendrá derecho por todos los conceptos a una indemnización equivalente al 2 por cien del precio de la adjudicación, IVA excluido».",
+   "w": {
+    "A": "El 6 % corresponde al desistimiento con obras iniciadas (art. 246.4).",
+    "B": "El 3 % corresponde al desistimiento antes de iniciar las obras (art. 246.3).",
+    "C": "La base excluye el IVA."
+   }
+  },
+  {
+   "n": 21,
+   "tema": "Tema 44",
+   "e": "Señale la respuesta correcta. Según el artículo 131 del RGLCAP, los gastos generales de estructura que inciden sobre el contrato se cifran, sobre el presupuesto de ejecución material, en un porcentaje:",
+   "o": {
+    "A": "Del 13 al 17 %, a fijar por cada Departamento ministerial.",
+    "B": "Del 13 al 17 %, a fijar por el autor del proyecto.",
+    "C": "Del 15 al 19 %, a fijar por cada Departamento ministerial.",
+    "D": "Del 6 al 13 %, a fijar por cada Departamento ministerial."
+   },
+   "c": "A",
+   "ref": "RGLCAP, art. 131.1.a",
+   "cita": "«Del 13 al 17 por 100, a fijar por cada Departamento ministerial, a la vista de las circunstancias concurrentes…».",
+   "w": {
+    "B": "Lo fija cada Departamento ministerial; el autor del proyecto fija el porcentaje de costes indirectos (art. 130).",
+    "C": "El intervalo es del 13 al 17 %.",
+    "D": "El 6 % es el beneficio industrial; los gastos generales van del 13 al 17 %."
+   }
+  },
+  {
+   "n": 22,
+   "tema": "Tema 44",
+   "e": "Señale la respuesta correcta. Según el artículo 155 del RGLCAP, previa autorización del órgano de contratación, el contratista tendrá derecho a percibir abonos a cuenta por materiales acopiados necesarios para la obra hasta el:",
+   "o": {
+    "A": "75 % de su valor.",
+    "B": "50 % de su valor.",
+    "C": "80 % de su valor.",
+    "D": "20 % de su valor."
+   },
+   "c": "A",
+   "ref": "RGLCAP, art. 155.1",
+   "cita": "«El contratista tendrá derecho a percibir abonos a cuenta hasta el 75 por 100 del valor de los materiales acopiados…».",
+   "w": {
+    "B": "El 50 % es el tope de los abonos por instalaciones sobre los gastos generales pendientes (art. 156).",
+    "C": "El límite es el 75 %.",
+    "D": "El 20 % es el tope de los abonos por equipos (art. 156)."
+   }
+  },
+  {
+   "n": 23,
+   "tema": "Tema 44",
+   "e": "Señale la respuesta correcta. Según el artículo 163 del RGLCAP, el contratista comunicará por escrito a la dirección de la obra la fecha prevista para la terminación de la ejecución, a efectos de su recepción, con una antelación de:",
+   "o": {
+    "A": "Veinte días como mínimo.",
+    "B": "Cuarenta y cinco días hábiles.",
+    "C": "Un mes como mínimo.",
+    "D": "Treinta días hábiles como mínimo."
+   },
+   "c": "B",
+   "ref": "RGLCAP, art. 163.1",
+   "cita": "«El contratista, con una antelación de cuarenta y cinco días hábiles, comunicará por escrito a la dirección de la obra la fecha prevista para la terminación…».",
+   "w": {
+    "A": "Veinte días es la antelación mínima de la comunicación a la Intervención.",
+    "C": "Un mes es la antelación con que el director eleva la comunicación al órgano de contratación.",
+    "D": "La antelación es de cuarenta y cinco días hábiles."
+   }
+  },
+  {
+   "n": 24,
+   "tema": "Tema 44",
+   "e": "Señale la respuesta INCORRECTA. Según los artículos 164 a 169 del RGLCAP, en la extinción del contrato de obras:",
+   "o": {
+    "A": "El contratista tiene obligación de asistir a la medición general que efectúe el director de la obra.",
+    "B": "Notificada la propuesta de liquidación, el contratista dispondrá de un mes para prestar su conformidad o formular reparos.",
+    "C": "El contratista tiene obligación de asistir a la recepción de la obra.",
+    "D": "El director formulará la propuesta de liquidación de las obras realmente ejecutadas en el plazo de un mes."
+   },
+   "c": "B",
+   "ref": "RGLCAP, art. 169.2",
+   "cita": "«La propuesta de liquidación se notificará al contratista para que en el plazo de diez días preste su conformidad o manifieste los reparos…».",
+   "w": {
+    "A": "Correcta: art. 166.2.",
+    "C": "Correcta: art. 164.1.",
+    "D": "Correcta: art. 169.1."
+   }
+  },
+  {
+   "n": 25,
+   "tema": "Tema 45",
+   "e": "Señale la respuesta correcta. Según el artículo 4 del Real Decreto 1627/1997, es obligatorio elaborar un estudio de seguridad y salud cuando la duración estimada de la obra sea superior a:",
+   "o": {
+    "A": "30 días laborables, empleándose en algún momento a más de 50 trabajadores simultáneamente.",
+    "B": "20 días laborables, empleándose en algún momento a más de 30 trabajadores simultáneamente.",
+    "C": "30 días laborables, empleándose en algún momento a más de 20 trabajadores simultáneamente.",
+    "D": "15 días laborables, empleándose en algún momento a más de 20 trabajadores simultáneamente."
+   },
+   "c": "C",
+   "ref": "RD 1627/1997, art. 4.1.b",
+   "cita": "«Que la duración estimada sea superior a 30 días laborables, empleándose en algún momento a más de 20 trabajadores simultáneamente».",
+   "w": {
+    "A": "El número de trabajadores es más de 20.",
+    "B": "Los datos están cruzados: son 30 días y 20 trabajadores.",
+    "D": "La duración es de más de 30 días laborables."
+   }
+  },
+  {
+   "n": 26,
+   "tema": "Tema 45",
+   "e": "Señale la respuesta correcta. Según el artículo 2 del Real Decreto 1627/1997, el coordinador en materia de seguridad y salud durante la ejecución de la obra es el técnico competente:",
+   "o": {
+    "A": "Integrado en la dirección facultativa, designado por el promotor.",
+    "B": "Integrado en la empresa contratista, designado por el promotor.",
+    "C": "Ajeno a la dirección facultativa, designado por el promotor.",
+    "D": "Integrado en la dirección facultativa, designado por el contratista."
+   },
+   "c": "A",
+   "ref": "RD 1627/1997, art. 2.1.f",
+   "cita": "«Coordinador… durante la ejecución de la obra: el técnico competente integrado en la dirección facultativa, designado por el promotor…».",
+   "w": {
+    "B": "Forma parte de la dirección facultativa, no de la contrata.",
+    "C": "Está integrado en la dirección facultativa.",
+    "D": "Lo designa el promotor, no el contratista."
+   }
+  },
+  {
+   "n": 27,
+   "tema": "Tema 45",
+   "e": "Señale la respuesta INCORRECTA. Según los artículos 5 y 7 del Real Decreto 1627/1997:",
+   "o": {
+    "A": "El plan de seguridad y salud deberá aprobarse antes del inicio de la obra.",
+    "B": "El estudio de seguridad y salud lo elabora cada contratista, en aplicación del plan de seguridad y salud.",
+    "C": "Las medidas alternativas del plan no podrán implicar disminución de los niveles de protección previstos en el estudio.",
+    "D": "El estudio de seguridad y salud deberá formar parte del proyecto de ejecución de obra y ser coherente con su contenido."
+   },
+   "c": "B",
+   "ref": "RD 1627/1997, arts. 5.1 y 7.1",
+   "cita": "El estudio lo elabora el técnico competente designado por el promotor (art. 5.1); cada contratista elabora el plan «en aplicación del estudio» (art. 7.1).",
+   "w": {
+    "A": "Correcta: art. 7.2.",
+    "C": "Correcta: art. 7.1.",
+    "D": "Correcta: art. 5.3."
+   }
+  },
+  {
+   "n": 28,
+   "tema": "Tema 45",
+   "e": "Señale la respuesta correcta. Según el artículo 13 del Real Decreto 1627/1997, cuando se trate de obras de las Administraciones públicas, el libro de incidencias será facilitado por:",
+   "o": {
+    "A": "El Colegio profesional al que pertenezca el técnico que haya aprobado el plan.",
+    "B": "La Inspección de Trabajo y Seguridad Social.",
+    "C": "La Oficina de Supervisión de Proyectos u órgano equivalente.",
+    "D": "La autoridad laboral competente."
+   },
+   "c": "C",
+   "ref": "RD 1627/1997, art. 13.2.b",
+   "cita": "«La Oficina de Supervisión de Proyectos u órgano equivalente cuando se trate de obras de las Administraciones públicas».",
+   "w": {
+    "A": "Es quien lo facilita en las obras que no son de las Administraciones públicas.",
+    "B": "La Inspección recibe copia de determinadas anotaciones, no facilita el libro.",
+    "D": "La autoridad laboral recibe la comunicación de apertura del centro de trabajo (art. 19)."
+   }
+  },
+  {
+   "n": 29,
+   "tema": "Tema 45",
+   "e": "Señale la respuesta correcta. Según el artículo 13 del Real Decreto 1627/1997, cuando una anotación en el libro de incidencias se refiera al incumplimiento de advertencias u observaciones anteriores, deberá remitirse una copia a la Inspección de Trabajo y Seguridad Social en el plazo de:",
+   "o": {
+    "A": "Veinticuatro horas.",
+    "B": "Cuarenta y ocho horas.",
+    "C": "Cinco días hábiles.",
+    "D": "Setenta y dos horas."
+   },
+   "c": "A",
+   "ref": "RD 1627/1997, art. 13.4",
+   "cita": "«…deberá remitirse una copia a la Inspección de Trabajo y Seguridad Social en el plazo de veinticuatro horas».",
+   "w": {
+    "B": "El plazo es de veinticuatro horas.",
+    "C": "El plazo es de veinticuatro horas.",
+    "D": "El plazo es de veinticuatro horas."
+   }
+  },
+  {
+   "n": 30,
+   "tema": "Tema 45",
+   "e": "Señale la respuesta correcta. Según el artículo 19 del Real Decreto 1627/1997, la comunicación de apertura del centro de trabajo a la autoridad laboral competente, que deberá ser previa al comienzo de los trabajos, se presentará:",
+   "o": {
+    "A": "Por los contratistas y los subcontratistas.",
+    "B": "Únicamente por los empresarios que sean contratistas.",
+    "C": "Por el promotor, antes del comienzo de los trabajos.",
+    "D": "Por el coordinador durante la ejecución de la obra."
+   },
+   "c": "B",
+   "ref": "RD 1627/1997, art. 19.1",
+   "cita": "La comunicación de apertura «…deberá ser previa al comienzo de los trabajos y se presentará únicamente por los empresarios que tengan la consideración de contratistas…».",
+   "w": {
+    "A": "La presentan únicamente los contratistas.",
+    "C": "No la presenta el promotor.",
+    "D": "El coordinador aprueba el plan, pero no presenta la comunicación."
+   }
+  }
+ ]
+}

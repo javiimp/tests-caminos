@@ -1,0 +1,577 @@
+{
+ "id": "test02",
+ "titulo": "Test 2 · Medio ambiente, territorio y urbanismo (Temas 39, 40, 41 y 42)",
+ "normas": "Ley 37/2003 del Ruido · Ley 7/2002 de contaminación acústica CV · Ley 21/2013 de evaluación ambiental · Convenio Europeo del Paisaje · TRLOTUP (DLeg 1/2021) · Decreto 8/2016 · ETCV · PATRICOVA · PATHorta · Ley 3/2025 de la costa valenciana",
+ "preguntas": [
+  {
+   "n": 1,
+   "tema": "Tema 39",
+   "e": "Señale la respuesta correcta. Según el artículo 7 de la Ley 7/2002, de 3 de diciembre, de la Generalitat, de protección contra la contaminación acústica, con carácter general se entiende por «día» u horario diurno el comprendido entre las:",
+   "o": {
+    "A": "07.00 y las 23.00 horas.",
+    "B": "08.00 y las 20.00 horas.",
+    "C": "08.00 y las 22.00 horas.",
+    "D": "07.00 y las 19.00 horas."
+   },
+   "c": "C",
+   "ref": "Ley 7/2002, art. 7.3",
+   "cita": "«se entenderá por «día» u horario diurno el comprendido entre las 08.00 y las 22.00 horas».",
+   "w": {
+    "A": "Es el «día» que pueden aplicar los ayuntamientos de 150.000 a 200.000 habitantes con dinamización tradicional del espacio público (art. 7.5).",
+    "B": "Ese intervalo no figura en la Ley.",
+    "D": "Es el periodo «día» que el art. 7.4 fija solo para el ruido de las infraestructuras de transporte."
+   }
+  },
+  {
+   "n": 2,
+   "tema": "Tema 39",
+   "e": "Señale la respuesta correcta. Según el artículo 28 de la Ley 7/2002, serán declaradas zonas acústicamente saturadas aquellas en las que, aun cuando cada actividad cumpla individualmente los niveles, se sobrepasen dos veces por semana durante tres semanas consecutivas, o tres alternas en 35 días naturales, los niveles de evaluación por ruidos en el ambiente exterior en más de:",
+   "o": {
+    "A": "6 dB(A).",
+    "B": "20 dB(A).",
+    "C": "10 dB(A).",
+    "D": "15 dB(A)."
+   },
+   "c": "B",
+   "ref": "Ley 7/2002, art. 28.2",
+   "cita": "«…se sobrepasen dos veces por semana durante tres semanas consecutivas o, tres alternas en un plazo de treinta y cinco días naturales, y en más de 20 dB(A)…».",
+   "w": {
+    "A": "6 dB(A) es el umbral que separa infracciones leves y graves (art. 55).",
+    "C": "10 dB(A) es la superación que obliga a adoptar un plan de mejora de calidad acústica en infraestructuras de transporte (art. 53).",
+    "D": "Superar los niveles en más de 15 dB(A) es infracción muy grave (art. 55), no el criterio de la ZAS."
+   }
+  },
+  {
+   "n": 3,
+   "tema": "Tema 39",
+   "e": "Señale la respuesta INCORRECTA. Según el artículo 24 de la Ley 7/2002, en el procedimiento de aprobación de los planes acústicos municipales:",
+   "o": {
+    "A": "La aprobación corresponderá al pleno del ayuntamiento, en el plazo de dos meses desde la remisión del informe autonómico.",
+    "B": "La conselleria competente en medio ambiente emitirá un informe vinculante en el plazo de un mes.",
+    "C": "El proyecto de plan se someterá a información pública por el plazo de un mes.",
+    "D": "La no emisión en plazo del informe de la conselleria competente en medio ambiente permitirá continuar el procedimiento."
+   },
+   "c": "D",
+   "ref": "Ley 7/2002, art. 24.3",
+   "cita": "«Su no emisión en el plazo establecido dará lugar a la interrupción del procedimiento».",
+   "w": {
+    "A": "Correcta: art. 24.4.",
+    "B": "Correcta: art. 24.3, informe vinculante en un mes como último trámite previo a la aprobación.",
+    "C": "Correcta: art. 24.2, información pública de un mes (DOGV y diario de mayor difusión)."
+   }
+  },
+  {
+   "n": 4,
+   "tema": "Tema 39",
+   "e": "Señale la respuesta correcta. Según el artículo 42 de la Ley 7/2002, en los trabajos que se realicen en la vía pública y en la edificación dentro de las zonas urbanas consolidadas no se autorizará el empleo de maquinaria cuyo nivel de presión sonora supere:",
+   "o": {
+    "A": "85 dB(A) medidos a cinco metros de distancia.",
+    "B": "104 dB(A) medidos a cinco metros de distancia.",
+    "C": "90 dB(A) medidos a cinco metros de distancia.",
+    "D": "90 dB(A) medidos a diez metros de distancia."
+   },
+   "c": "C",
+   "ref": "Ley 7/2002, art. 42.1",
+   "cita": "«…no se autorizará el empleo de maquinaria cuyo nivel de presión sonora supere 90 dB(A) medidos a cinco metros de distancia».",
+   "w": {
+    "A": "El límite es 90 dB(A); 85 dB(A) es el nivel de emisión mínimo de bingos y salones de juego (art. 39).",
+    "B": "104 dB(A) es el nivel de emisión mínimo de salas de fiestas y discotecas (art. 39).",
+    "D": "La distancia de medición es de cinco metros, no de diez."
+   }
+  },
+  {
+   "n": 5,
+   "tema": "Tema 39",
+   "e": "Señale la respuesta correcta. Según el artículo 37 de la Ley 7/2002, los titulares de actividades susceptibles de generar ruidos y vibraciones deberán realizar un autocontrol de las emisiones acústicas, salvo que la evaluación de impacto ambiental o la calificación de la actividad fijen un plazo inferior:",
+   "o": {
+    "A": "Al menos cada cinco años.",
+    "B": "Al menos una vez al año.",
+    "C": "Al menos cada tres años.",
+    "D": "Al menos cada dos años."
+   },
+   "c": "A",
+   "ref": "Ley 7/2002, art. 37.1",
+   "cita": "«…deberán realizar un autocontrol de las emisiones acústicas al menos cada cinco años o en un plazo inferior…».",
+   "w": {
+    "B": "La Ley no exige un autocontrol anual.",
+    "C": "El plazo general de la auditoría es de cinco años.",
+    "D": "El plazo general de la auditoría es de cinco años."
+   }
+  },
+  {
+   "n": 6,
+   "tema": "Tema 39",
+   "e": "Señale la respuesta correcta. Según el artículo 26 de la Ley 37/2003, del Ruido, si las medidas correctoras de los planes zonales específicos de una zona de protección acústica especial no pudieran evitar el incumplimiento de los objetivos de calidad acústica, la Administración competente declarará el área acústica como:",
+   "o": {
+    "A": "Zona de servidumbre acústica.",
+    "B": "Zona de situación acústica especial.",
+    "C": "Zona acústicamente saturada.",
+    "D": "Reserva de sonidos de origen natural."
+   },
+   "c": "B",
+   "ref": "Ley 37/2003, art. 26",
+   "cita": "«…la Administración pública competente declarará el área acústica en cuestión como zona de situación acústica especial».",
+   "w": {
+    "A": "Las servidumbres acústicas gravan el entorno de las infraestructuras de transporte (art. 10).",
+    "C": "La ZAS es una figura de la Ley 7/2002 valenciana, ligada a la superposición de actividades.",
+    "D": "Las reservas protegen zonas no perturbadas por la actividad humana (art. 21)."
+   }
+  },
+  {
+   "n": 7,
+   "tema": "Tema 39",
+   "e": "Señale la respuesta INCORRECTA. Según la Ley 37/2003, de 17 de noviembre, del Ruido:",
+   "o": {
+    "A": "Gran aeropuerto es cualquier aeropuerto civil con más de 50.000 movimientos por año.",
+    "B": "Gran eje ferroviario es cualquier vía férrea con un tráfico superior a 60.000 trenes por año.",
+    "C": "Gran eje viario es cualquier carretera con un tráfico superior a 3 millones de vehículos por año.",
+    "D": "Son aglomeraciones los municipios con una población superior a 100.000 habitantes y la densidad que se fije reglamentariamente."
+   },
+   "c": "B",
+   "ref": "Ley 37/2003, art. 3.h",
+   "cita": "«Gran eje ferroviario: cualquier vía férrea con un tráfico superior a 30.000 trenes por año». Los 60.000 trenes son del calendario de la DA 1.ª.",
+   "w": {
+    "A": "Correcta: art. 3.i (despegues y aterrizajes).",
+    "C": "Correcta: art. 3.g.",
+    "D": "Correcta: art. 14.1.a."
+   }
+  },
+  {
+   "n": 8,
+   "tema": "Tema 40",
+   "e": "Señale la respuesta correcta. Según el artículo 43 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, la declaración de impacto ambiental perderá su vigencia si, una vez publicada, no se hubiera comenzado la ejecución del proyecto en el plazo de:",
+   "o": {
+    "A": "Cuatro años.",
+    "B": "Seis años.",
+    "C": "Un año.",
+    "D": "Dos años."
+   },
+   "c": "A",
+   "ref": "Ley 21/2013, art. 43.1",
+   "cita": "«…no se hubiera comenzado la ejecución del proyecto o actividad en el plazo de cuatro años».",
+   "w": {
+    "B": "La Ley no fija ese plazo; la prórroga de la DIA es de hasta dos años adicionales.",
+    "C": "Un año es la validez del estudio de impacto ambiental y de los trámites de información pública (arts. 33 y 35).",
+    "D": "Dos años es la vigencia de la declaración ambiental estratégica para aprobar el plan (art. 27)."
+   }
+  },
+  {
+   "n": 9,
+   "tema": "Tema 40",
+   "e": "Señale la respuesta correcta. Según el artículo 36 de la Ley 21/2013, en la evaluación de impacto ambiental ordinaria el órgano sustantivo someterá el proyecto y el estudio de impacto ambiental a información pública durante un plazo no inferior a:",
+   "o": {
+    "A": "Cuarenta y cinco días hábiles.",
+    "B": "Veinte días hábiles.",
+    "C": "Un mes.",
+    "D": "Treinta días hábiles."
+   },
+   "c": "D",
+   "ref": "Ley 21/2013, art. 36.1",
+   "cita": "«…a información pública durante un plazo no inferior a treinta días hábiles…».",
+   "w": {
+    "A": "Es el mínimo de información pública de la evaluación ambiental estratégica ordinaria (art. 21).",
+    "B": "Veinte días es el plazo de las consultas en los procedimientos simplificados.",
+    "C": "La Ley fija el plazo en días hábiles: treinta."
+   }
+  },
+  {
+   "n": 10,
+   "tema": "Tema 40",
+   "e": "Señale la respuesta INCORRECTA. Según la Ley 21/2013, de evaluación ambiental:",
+   "o": {
+    "A": "La declaración ambiental estratégica tiene la naturaleza de informe preceptivo y determinante.",
+    "B": "Si no se resuelve en plazo la prórroga de la vigencia de la DIA, se entenderá estimada.",
+    "C": "La DIA no será objeto de recurso, sin perjuicio de los que procedan contra el acto que autorice el proyecto.",
+    "D": "La falta de emisión de la DIA en plazo en ningún caso podrá entenderse que equivale a una evaluación favorable."
+   },
+   "c": "B",
+   "ref": "Ley 21/2013, art. 43.5",
+   "cita": "«Transcurrido el plazo sin que el órgano ambiental haya resuelto sobre la prórroga… se entenderá desestimada la solicitud de prórroga». Solo en la DAE se entiende estimada (art. 27.5).",
+   "w": {
+    "A": "Correcta: art. 25.2.",
+    "C": "Correcta: art. 41.4.",
+    "D": "Correcta: art. 10."
+   }
+  },
+  {
+   "n": 11,
+   "tema": "Tema 40",
+   "e": "Señale la respuesta correcta. Según el artículo 5 de la Ley 21/2013, para tener la consideración de personas interesadas, las personas jurídicas sin ánimo de lucro deben, entre otros requisitos, llevar legalmente constituidas, al menos:",
+   "o": {
+    "A": "Un año.",
+    "B": "Tres años.",
+    "C": "Cinco años.",
+    "D": "Dos años."
+   },
+   "c": "D",
+   "ref": "Ley 21/2013, art. 5.1.g.2.º.ii",
+   "cita": "«Que lleven, al menos, dos años legalmente constituidas y vengan ejerciendo, de modo activo, las actividades necesarias…».",
+   "w": {
+    "A": "La Ley exige dos años de constitución.",
+    "B": "La Ley exige dos años de constitución.",
+    "C": "La Ley exige dos años de constitución."
+   }
+  },
+  {
+   "n": 12,
+   "tema": "Tema 40",
+   "e": "Señale la respuesta correcta. Según el artículo 12 de la Ley 21/2013, cuando el expediente lo haya tramitado una comunidad autónoma, las discrepancias entre el órgano sustantivo y el órgano ambiental sobre el contenido de la declaración de impacto ambiental las resuelve:",
+   "o": {
+    "A": "El Consejo de Ministros, cualquiera que sea la Administración que tramitó el expediente.",
+    "B": "La Conferencia Sectorial de Medio Ambiente, a propuesta del órgano sustantivo.",
+    "C": "El Consejo de Gobierno autonómico o el órgano que la comunidad determine.",
+    "D": "El órgano ambiental de la comunidad autónoma, previa audiencia del órgano sustantivo."
+   },
+   "c": "C",
+   "ref": "Ley 21/2013, art. 12.1",
+   "cita": "«…resolverá el Consejo de Ministros o el Consejo de Gobierno de la comunidad autónoma correspondiente o el órgano que la comunidad autónoma determine…».",
+   "w": {
+    "A": "El Consejo de Ministros resuelve solo cuando el expediente lo tramita la AGE.",
+    "B": "La Conferencia Sectorial es el cauce de cooperación Estado-CCAA (art. 1), no resuelve discrepancias.",
+    "D": "El órgano ambiental es parte de la discrepancia; no la resuelve."
+   }
+  },
+  {
+   "n": 13,
+   "tema": "Tema 40",
+   "e": "Señale la respuesta correcta. Según el artículo 1 del Convenio Europeo del Paisaje, las acciones que presenten un carácter prospectivo particularmente acentuado con vistas a mejorar, restaurar o crear paisajes se denominan:",
+   "o": {
+    "A": "Ordenación paisajística.",
+    "B": "Política en materia de paisajes.",
+    "C": "Gestión de los paisajes.",
+    "D": "Protección de los paisajes."
+   },
+   "c": "A",
+   "ref": "Convenio Europeo del Paisaje, art. 1.f",
+   "cita": "«Ordenación paisajística: acciones que presenten un carácter prospectivo particularmente acentuado con vistas a mejorar, restaurar o crear paisajes».",
+   "w": {
+    "B": "Es la formulación de principios, estrategias y directrices por las autoridades públicas.",
+    "C": "La gestión garantiza el mantenimiento regular del paisaje desde el desarrollo sostenible.",
+    "D": "La protección conserva y mantiene los aspectos significativos por su valor patrimonial."
+   }
+  },
+  {
+   "n": 14,
+   "tema": "Tema 40",
+   "e": "Señale la respuesta correcta. Según el artículo 6 del TRLOTUP, aprobado por Decreto Legislativo 1/2021, los estudios de paisaje podrán tramitarse de forma independiente y se aprobarán por resolución de:",
+   "o": {
+    "A": "La dirección general competente en materia de paisaje.",
+    "B": "La comisión territorial de urbanismo de la provincia.",
+    "C": "La conselleria competente en medio ambiente, como órgano ambiental.",
+    "D": "El pleno del ayuntamiento en cuyo término se sitúe."
+   },
+   "c": "A",
+   "ref": "TRLOTUP, art. 6.6",
+   "cita": "«Los estudios de paisaje podrán tramitarse de forma independiente y se aprobarán por resolución de la dirección general competente en materia de paisaje».",
+   "w": {
+    "B": "Las CTU no tienen atribuida esta aprobación.",
+    "C": "La conselleria de medio ambiente actúa como órgano ambiental, no aprueba estos estudios.",
+    "D": "El ayuntamiento informa los instrumentos de paisaje de sus planes, pero no aprueba estos estudios."
+   }
+  },
+  {
+   "n": 15,
+   "tema": "Tema 40",
+   "e": "Señale la respuesta INCORRECTA. Según el artículo 6 del TRLOTUP, en relación con los instrumentos de paisaje:",
+   "o": {
+    "A": "Los programas de paisaje concretan actuaciones para preservar, mejorar y poner en valor paisajes que requieren intervenciones específicas.",
+    "B": "Los estudios de integración paisajística valoran los efectos sobre el carácter y la percepción del paisaje.",
+    "C": "Se someten a participación pública por un plazo de un mes, con independencia del documento al que acompañen.",
+    "D": "Los estudios de paisaje proceden en los planes de acción territorial, el plan general estructural y el plan de ordenación pormenorizada."
+   },
+   "c": "C",
+   "ref": "TRLOTUP, art. 6.5",
+   "cita": "«…para que se pronuncien en un plazo máximo igual al del procedimiento del documento al que acompañe».",
+   "w": {
+    "A": "Correcta: art. 6.4.c.",
+    "B": "Correcta: art. 6.4.b.",
+    "D": "Correcta: art. 6.4.a."
+   }
+  },
+  {
+   "n": 16,
+   "tema": "Tema 41",
+   "e": "Señale la respuesta correcta. Según el artículo 24 del TRLOTUP, la red primaria comprende, al menos, parques públicos con una extensión mínima, respecto al total de población prevista en el plan, de:",
+   "o": {
+    "A": "Tres metros cuadrados por habitante.",
+    "B": "Cinco metros cuadrados por habitante.",
+    "C": "Quince metros cuadrados por habitante.",
+    "D": "Diez metros cuadrados por habitante."
+   },
+   "c": "B",
+   "ref": "TRLOTUP, art. 24.1.c",
+   "cita": "«Parques públicos, con una extensión mínima de cinco metros cuadrados por habitante…».",
+   "w": {
+    "A": "Tres es la proporción de área recreativa en SNU por cada metro de parque (art. 24.4).",
+    "C": "No es el estándar de parque público de la red primaria.",
+    "D": "Diez m²/hab es el estándar global de zonas verdes y parques (estructural más pormenorizada, art. 24.7)."
+   }
+  },
+  {
+   "n": 17,
+   "tema": "Tema 41",
+   "e": "Señale la respuesta correcta. Según el artículo 36 del TRLOTUP, en los sectores de suelo residencial las dotaciones públicas no viarias serán, al menos, de:",
+   "o": {
+    "A": "35 m² de suelo por cada 100 m² potencialmente edificables con ese uso.",
+    "B": "30 m² de suelo por cada 100 m² potencialmente edificables con ese uso.",
+    "C": "15 m² de suelo por cada 100 m² potencialmente edificables con ese uso.",
+    "D": "25 m² de suelo por cada 100 m² potencialmente edificables con ese uso."
+   },
+   "c": "A",
+   "ref": "TRLOTUP, art. 36.2.a",
+   "cita": "«…las dotaciones públicas no viarias serán, al menos, 35 metros cuadrados de suelo por cada 100 metros cuadrados potencialmente edificables con ese uso. De ellos, un mínimo de 15 se destinará a zonas verdes públicas».",
+   "w": {
+    "B": "La reserva mínima es de 35 m².",
+    "C": "15 m² es la parte mínima que debe destinarse a zonas verdes públicas.",
+    "D": "La reserva mínima es de 35 m²."
+   }
+  },
+  {
+   "n": 18,
+   "tema": "Tema 41",
+   "e": "Señale la respuesta correcta. Según el artículo 33 del TRLOTUP, el plan general estructural reservará suelo para viviendas sometidas a algún régimen de protección pública, en suelos urbanizables y urbanos sin urbanización, en un mínimo de la edificabilidad residencial prevista del:",
+   "o": {
+    "A": "40 %.",
+    "B": "15 %.",
+    "C": "30 %.",
+    "D": "10 %."
+   },
+   "c": "C",
+   "ref": "TRLOTUP, art. 33.1.a",
+   "cita": "«El 30 % de la edificabilidad residencial prevista en suelos urbanizables y urbanos sin urbanización».",
+   "w": {
+    "A": "El mínimo legal es el 30 %, aunque la administración puede fijar porcentajes superiores.",
+    "B": "El 15 % es el mínimo en suelo urbano incluido en ámbitos de renovación y regeneración urbana.",
+    "D": "El 10 % se aplica al incremento de edificabilidad residencial en suelo urbano."
+   }
+  },
+  {
+   "n": 19,
+   "tema": "Tema 41",
+   "e": "Señale la respuesta correcta. Según el artículo 44 del TRLOTUP, la aprobación definitiva de los planes, municipales o mancomunados, que fijen o modifiquen la ordenación estructural corresponde a:",
+   "o": {
+    "A": "El ayuntamiento que los haya formulado, por acuerdo del pleno.",
+    "B": "El Consell, mediante decreto, a propuesta del ayuntamiento.",
+    "C": "La conselleria competente en medio ambiente, como órgano ambiental.",
+    "D": "La conselleria competente en urbanismo, ordenación del territorio y paisaje."
+   },
+   "c": "D",
+   "ref": "TRLOTUP, art. 44.3.c",
+   "cita": "«Aprobar definitivamente los planes que fijen o modifiquen la ordenación estructural, sean municipales o mancomunados».",
+   "w": {
+    "A": "El ayuntamiento aprueba los planes que fijen o modifiquen la ordenación pormenorizada (art. 44.6).",
+    "B": "El Consell aprueba por decreto la ETCV y los PAT promovidos por la Generalitat (art. 44.1).",
+    "C": "Esta conselleria interviene como órgano ambiental (art. 44.2)."
+   }
+  },
+  {
+   "n": 20,
+   "tema": "Tema 41",
+   "e": "Señale la respuesta INCORRECTA. Según los artículos 220 a 222 del TRLOTUP, en relación con la declaración de interés comunitario (DIC):",
+   "o": {
+    "A": "El canon se devengará de una sola vez con ocasión del otorgamiento de la licencia urbanística.",
+    "B": "El canon de uso y aprovechamiento equivale al 2 % de los costes estimados de las obras.",
+    "C": "El plazo de vigencia del uso y aprovechamiento atribuido no podrá exceder de veinte años.",
+    "D": "La DIC deberá estar motivada y fundarse, entre otros, en la necesidad de emplazamiento en el medio rural."
+   },
+   "c": "C",
+   "ref": "TRLOTUP, art. 222.1",
+   "cita": "«…un determinado plazo de vigencia del uso y aprovechamiento… que no podrá exceder de treinta años».",
+   "w": {
+    "A": "Correcta: art. 221.2.",
+    "B": "Correcta: art. 221.2 (edificación e implantación de servicios).",
+    "D": "Correcta: art. 220.1."
+   }
+  },
+  {
+   "n": 21,
+   "tema": "Tema 41",
+   "e": "Señale la respuesta correcta. Según el artículo 210 del TRLOTUP, mientras no exista plan que lo autorice, en suelo no urbanizable no podrá edificarse con una altura superior a:",
+   "o": {
+    "A": "Dos plantas, medidas en cada punto del terreno natural.",
+    "B": "Tres plantas, medidas en cada punto del terreno natural.",
+    "C": "Una planta, medida en cada punto del terreno natural.",
+    "D": "Dos plantas, medidas desde la rasante del camino de acceso."
+   },
+   "c": "A",
+   "ref": "TRLOTUP, art. 210.2",
+   "cita": "«Mientras no exista plan que lo autorice, no podrá edificarse con una altura superior a dos plantas medidas en cada punto del terreno natural…».",
+   "w": {
+    "B": "El límite es de dos plantas.",
+    "C": "El límite es de dos plantas.",
+    "D": "La medición se hace en cada punto del terreno natural."
+   }
+  },
+  {
+   "n": 22,
+   "tema": "Tema 41",
+   "e": "Señale la respuesta correcta. Según el artículo 49 del TRLOTUP, el ayuntamiento actuará como órgano ambiental y territorial en los instrumentos de planeamiento que afecten única y exclusivamente a:",
+   "o": {
+    "A": "La ordenación estructural del suelo urbano, aunque se modifique su uso dominante.",
+    "B": "La ordenación estructural del suelo urbanizable.",
+    "C": "La ordenación pormenorizada del suelo no urbanizable.",
+    "D": "La ordenación pormenorizada del suelo urbano."
+   },
+   "c": "D",
+   "ref": "TRLOTUP, art. 49.1.a",
+   "cita": "«En los instrumentos de planeamiento urbanístico que afecten única y exclusivamente a la ordenación pormenorizada del suelo urbano…».",
+   "w": {
+    "A": "Solo cabe si el suelo urbano tiene servicios implantados y no se modifica el uso dominante.",
+    "B": "La ordenación estructural del urbanizable corresponde al órgano autonómico.",
+    "C": "No es uno de los supuestos del art. 49."
+   }
+  },
+  {
+   "n": 23,
+   "tema": "Tema 41",
+   "e": "Señale la respuesta correcta. Según el Decreto 8/2016, del Consell, por el que se aprueba el Reglamento de los órganos territoriales y urbanísticos de la Generalitat, la aprobación definitiva de los planes de acción territorial corresponde a:",
+   "o": {
+    "A": "La dirección general competente en urbanismo.",
+    "B": "El Consell.",
+    "C": "Las comisiones territoriales de urbanismo.",
+    "D": "La persona titular de la conselleria competente en territorio y urbanismo."
+   },
+   "c": "B",
+   "ref": "Decreto 8/2016, art. 2",
+   "cita": "Corresponde al Consell la «aprobación definitiva de los planes de acción territorial» (en el mismo sentido, art. 44.1 TRLOTUP).",
+   "w": {
+    "A": "El director general propone aprobaciones, no aprueba los PAT (art. 5).",
+    "C": "Las CTU aprueban instrumentos autonómicos salvo, entre otros, los PAT (art. 7).",
+    "D": "El conseller ordena su elaboración y los eleva al Consell (art. 3)."
+   }
+  },
+  {
+   "n": 24,
+   "tema": "Tema 42",
+   "e": "Señale la respuesta correcta. Según la Estrategia Territorial de la Comunitat Valenciana, aprobada por Decreto 1/2011, dentro del Sistema Nodal de Referencia se consideran ciudades medias las que tienen entre:",
+   "o": {
+    "A": "20.000 y 150.000 habitantes.",
+    "B": "20.000 y 250.000 habitantes.",
+    "C": "50.000 y 150.000 habitantes.",
+    "D": "10.000 y 100.000 habitantes."
+   },
+   "c": "A",
+   "ref": "ETCV (Decreto 1/2011), directrices 72-75",
+   "cita": "Ciudades medias: «entre 20.000 y 150.000 habitantes, con centros de polaridad principal y complementaria».",
+   "w": {
+    "B": "El límite superior es 150.000 habitantes.",
+    "C": "El límite inferior es 20.000 habitantes.",
+    "D": "Ambos límites son distintos de los de la ETCV."
+   }
+  },
+  {
+   "n": 25,
+   "tema": "Tema 42",
+   "e": "Señale la respuesta correcta. Según el artículo 8 de la normativa del PATRICOVA (Decreto 201/2015), la peligrosidad de inundación de nivel 4 corresponde a:",
+   "o": {
+    "A": "Periodo de retorno entre 25 y 100 años y calado entre 0,15 y 0,80 m.",
+    "B": "Periodo de retorno inferior a 25 años y calado entre 0,15 y 0,80 m.",
+    "C": "Periodo de retorno entre 100 y 500 años y calado entre 0,15 y 0,80 m.",
+    "D": "Periodo de retorno entre 25 y 100 años y calado superior a 0,80 m."
+   },
+   "c": "A",
+   "ref": "PATRICOVA, art. 8",
+   "cita": "Nivel 4: frecuencia media (25 a 100 años) con calado inferior a 80 cm y superior a 15 cm.",
+   "w": {
+    "B": "Esa combinación es el nivel 3.",
+    "C": "Esa combinación es el nivel 6.",
+    "D": "Esa combinación es el nivel 2."
+   }
+  },
+  {
+   "n": 26,
+   "tema": "Tema 42",
+   "e": "Señale la respuesta correcta. Según el artículo 9 de la normativa del PATRICOVA, se produce un incremento significativo de la peligrosidad cuando un nuevo elemento aumenta el calado máximo o la velocidad, para cualquier periodo de retorno entre 25 y 500 años, en más de:",
+   "o": {
+    "A": "Un 5 % y de 5 cm.",
+    "B": "Un 10 % y de 10 cm.",
+    "C": "Un 20 % y de 10 cm.",
+    "D": "Un 10 % y de 20 cm."
+   },
+   "c": "B",
+   "ref": "PATRICOVA, art. 9",
+   "cita": "«…un aumento del calado máximo o de la velocidad de más de un diez por ciento (10%) y de más de diez centímetros (10 cm)…».",
+   "w": {
+    "A": "Los valores son el 10 % y 10 cm.",
+    "C": "El porcentaje es el 10 %.",
+    "D": "La diferencia absoluta es de 10 cm."
+   }
+  },
+  {
+   "n": 27,
+   "tema": "Tema 42",
+   "e": "Señale la respuesta INCORRECTA. Según la normativa del PATRICOVA:",
+   "o": {
+    "A": "El informe del organismo de cuenca sobre los estudios de inundabilidad es preceptivo y determinante y se emite en 45 días como máximo.",
+    "B": "En caso de contradicción, prevalecen los documentos gráficos sobre el texto escrito.",
+    "C": "Se elaborará un informe de seguimiento del plan con una periodicidad máxima de 2 años.",
+    "D": "Son municipios con elevada peligrosidad aquellos con, al menos, dos terceras partes del término afectadas por peligrosidad de niveles 1 a 6."
+   },
+   "c": "B",
+   "ref": "PATRICOVA, art. 3",
+   "cita": "Las contradicciones se resuelven «con el principio general de prevalencia del texto escrito sobre los documentos gráficos».",
+   "w": {
+    "A": "Correcta: art. 13.",
+    "C": "Correcta: art. 5.",
+    "D": "Correcta: art. 15."
+   }
+  },
+  {
+   "n": 28,
+   "tema": "Tema 42",
+   "e": "Señale la respuesta INCORRECTA. Según la normativa del Plan de acción territorial de ordenación y dinamización de la Huerta de València (Decreto 219/2018):",
+   "o": {
+    "A": "Es causa de revisión el transcurso de veinte años desde su aprobación.",
+    "B": "Su ámbito estricto afecta a 40 municipios.",
+    "C": "La escala del Plan de acción territorial es de 1:50.000.",
+    "D": "El documento de Objetivos, estrategias y acciones dinamizadoras tiene carácter vinculante."
+   },
+   "c": "D",
+   "ref": "PATHorta, art. 5.3",
+   "cita": "«Tienen carácter no vinculante: el documento de Objetivos, Estrategias y acciones dinamizadoras».",
+   "w": {
+    "A": "Correcta: art. 9.1.c.",
+    "B": "Correcta: art. 2.",
+    "C": "Correcta: art. 5.4."
+   }
+  },
+  {
+   "n": 29,
+   "tema": "Tema 42",
+   "e": "Señale la respuesta correcta. Según el artículo 24 de la normativa del PATHorta, en los tramos en suelo no urbanizable por los que transcurre la Real Acequia de Moncada se establecen franjas de protección, en las que no se permitirán nuevas edificaciones, de:",
+   "o": {
+    "A": "100 metros en ambos márgenes, medidos desde su eje.",
+    "B": "25 metros en ambos márgenes, medidos desde su eje.",
+    "C": "50 metros en ambos márgenes, medidos desde el borde del cauce.",
+    "D": "50 metros en ambos márgenes, medidos desde su eje."
+   },
+   "c": "D",
+   "ref": "PATHorta, art. 24",
+   "cita": "«…se establecen franjas de protección de 50 metros de anchura en ambos márgenes, medidos desde su eje, en las que no se permitirán nuevas edificaciones».",
+   "w": {
+    "A": "La anchura es de 50 metros.",
+    "B": "La anchura es de 50 metros.",
+    "C": "La medición se hace desde el eje."
+   }
+  },
+  {
+   "n": 30,
+   "tema": "Tema 42",
+   "e": "Señale la respuesta correcta. Según el artículo 15 de la Ley 3/2025, de 22 de mayo, de protección y ordenación de la costa valenciana, el Plan de Ordenación Costera tiene la naturaleza jurídica de:",
+   "o": {
+    "A": "Directrices de ordenación del litoral.",
+    "B": "Plan de acción territorial sectorial.",
+    "C": "Plan de acción territorial integrado.",
+    "D": "Plan especial de playas."
+   },
+   "c": "C",
+   "ref": "Ley 3/2025, art. 15",
+   "cita": "El Plan de Ordenación Costera es el instrumento básico de ordenación del litoral y «su naturaleza jurídica es la de plan de acción territorial integrado».",
+   "w": {
+    "A": "Las directrices son el elemento básico de planificación (art. 14), distinto del Plan.",
+    "B": "Era la naturaleza del PATIVEL (Decreto 58/2018); el Plan de Ordenación Costera es integrado.",
+    "D": "Los planes especiales de playas son otro instrumento (art. 16)."
+   }
+  }
+ ]
+}
